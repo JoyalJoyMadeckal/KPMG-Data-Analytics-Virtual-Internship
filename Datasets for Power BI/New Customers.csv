@@ -1,0 +1,1001 @@
+first_name,last_name,gender,Age_category,past_3_years_bike_related_purchases_categories,cluster,job_title,job_industry_category,wealth_segment,deceased_indicator,owns_car,tenure,postcode,state,property_valuation
+Chickie,Brister,Male,Above 64,81-90,Cat_2,General Manager,Manufacturing,Mass Customer,N,Yes,14,4500,QLD,6
+Morly,Genery,Male,45-54,61-70,Cat_1,Structural Engineer,Property,Mass Customer,N,No,16,2113,NSW,11
+Ardelis,Forrester,Female,45-54,Below 10,Cat_2,Senior Cost Accountant,Financial Services,Affluent Customer,N,No,10,3505,VIC,5
+Lucine,Stutt,Female,35-44,61-70,Cat_2,Account Representative III,Manufacturing,Affluent Customer,N,Yes,5,4814,QLD,1
+Melinda,Hadlee,Female,55-64,31-40,Cat_1,Financial Analyst,Financial Services,Affluent Customer,N,No,19,2093,NSW,9
+Druci,Brandli,Female,Above 64,31-40,Cat_2,Assistant Media Planner,Entertainment,High Net Worth,N,Yes,22,4075,QLD,7
+Rutledge,Hallt,Male,45-54,21-30,Cat_1,Compensation Analyst,Financial Services,Mass Customer,N,No,8,2620,NSW,7
+Nancie,Vian,Female,45-54,71-80,Cat_2,Human Resources Assistant II,Retail,Mass Customer,N,Yes,10,4814,QLD,5
+Duff,Karlowicz,Male,45-54,41-50,Cat_1,Speech Pathologist,Manufacturing,Mass Customer,N,Yes,5,2200,NSW,10
+Barthel,Docket,Male,35-44,71-80,Cat_2,Accounting Assistant IV,IT,Mass Customer,N,Yes,17,4151,QLD,5
+Rockwell,Matson,Male,25-34,Above 90,Cat_2,Programmer Analyst I,Retail,High Net Worth,N,No,3,4573,QLD,6
+Wheeler,Winward,Male,18-24,41-50,Cat_2,Environmental Specialist,Manufacturing,Mass Customer,N,No,10,3216,VIC,8
+Olag,,Male,25-34,51-60,Cat_1,Human Resources Manager,Telecommunications,Mass Customer,N,No,9,2032,NSW,11
+Melba,Spellacy,Female,45-54,31-40,Cat_1,VP Marketing,Health,Mass Customer,N,No,4,2232,NSW,10
+Mandie,Feares,Female,55-64,31-40,Cat_2,Clinical Specialist,Health,Mass Customer,N,No,10,4053,QLD,8
+Dukie,Swire,Male,Above 64,81-90,Cat_1,Chemical Engineer,Manufacturing,Affluent Customer,N,Yes,5,2500,NSW,8
+Marcelia,Monkleigh,Female,25-34,61-70,Cat_2,Associate Professor,Manufacturing,Mass Customer,N,Yes,4,4051,QLD,6
+Winnifred,Beswetherick,Female,45-54,81-90,Cat_2,Actuary,Financial Services,Mass Customer,N,No,14,3040,VIC,10
+Odilia,Quick,Female,Above 64,61-70,Cat_1,General Manager,Manufacturing,Affluent Customer,N,Yes,11,2222,NSW,11
+Karly,Willavize,Female,Above 64,Below 10,Cat_1,Internal Auditor,Manufacturing,High Net Worth,N,No,12,2190,NSW,10
+Teddie,Burchill,Male,45-54,11-20,Cat_1,Programmer I,Manufacturing,Mass Customer,N,Yes,13,2161,NSW,9
+Gaston,Dallaghan,Male,25-34,41-50,Cat_1,Financial Analyst,Financial Services,Mass Customer,N,Yes,8,2783,NSW,7
+Otis,Ottey,Male,25-34,21-30,Cat_2,Quality Engineer,Financial Services,Mass Customer,N,No,3,4744,QLD,4
+Tabbatha,Averill,Female,45-54,Below 10,Cat_1,Quality Control Specialist,Manufacturing,Affluent Customer,N,Yes,13,2257,NSW,8
+Brena,Schnitter,Female,35-44,71-80,Cat_2,Account Executive,Manufacturing,Mass Customer,N,No,4,4703,QLD,5
+Rourke,Gillbard,Male,Above 64,11-20,Cat_2,Account Coordinator,Property,Mass Customer,N,No,17,4817,QLD,4
+Dyane,Burwell,Female,Above 64,11-20,Cat_1,Engineer II,Retail,Mass Customer,N,Yes,7,2640,NSW,2
+Claudine,Barstowk,Female,55-64,71-80,Cat_2,Nurse,Property,High Net Worth,N,Yes,5,4000,QLD,11
+Blinnie,Roze,Female,55-64,81-90,Cat_2,Librarian,Entertainment,High Net Worth,N,No,11,4171,QLD,7
+Rhona,De Freyne,Female,55-64,41-50,Cat_2,Social Worker,Health,High Net Worth,N,No,8,3056,VIC,10
+Sharron,Claibourn,Female,35-44,61-70,Cat_1,Cost Accountant,Financial Services,High Net Worth,N,Yes,17,2280,NSW,8
+Brien,Heaton,Male,Above 64,61-70,Cat_1,Clinical Specialist,Health,Mass Customer,N,Yes,12,2470,NSW,2
+Sybilla,MacCart,Female,35-44,81-90,Cat_1,Paralegal,Financial Services,Mass Customer,N,Yes,7,2620,NSW,7
+Mikel,McNess,Male,35-44,71-80,Cat_2,Nurse,Financial Services,Mass Customer,N,No,9,4122,QLD,9
+Maisie,Maddox,Female,45-54,21-30,Cat_2,Assistant Manager,Financial Services,Affluent Customer,N,No,20,3226,VIC,9
+Arleen,Casbolt,Female,45-54,41-50,Cat_2,Senior Quality Engineer,Financial Services,Affluent Customer,N,Yes,13,4817,QLD,1
+Farlie,Petford,Male,55-64,71-80,Cat_1,Recruiting Manager,Manufacturing,High Net Worth,N,No,13,2017,NSW,10
+Mitchell,MacCague,Male,35-44,51-60,Cat_2,Chemical Engineer,Manufacturing,Mass Customer,N,No,15,3190,VIC,8
+Garik,Whitwell,Male,Above 64,41-50,Cat_2,Account Coordinator,Property,Mass Customer,N,Yes,13,3280,VIC,2
+Antonin,Britt,Male,25-34,61-70,Cat_1,Chemical Engineer,Manufacturing,Affluent Customer,N,Yes,8,2160,NSW,9
+Vinny,Incogna,Female,Above 64,71-80,Cat_1,Social Worker,Health,High Net Worth,N,No,10,2756,NSW,8
+Colene,Fishleigh,Female,35-44,21-30,Cat_2,Design Engineer,Financial Services,Mass Customer,N,No,3,3149,VIC,10
+Neile,Argent,Female,Above 64,71-80,Cat_1,Sales Representative,Retail,Mass Customer,N,No,8,2024,NSW,10
+Corinna,Suggey,Female,55-64,51-60,Cat_1,Design Engineer,Manufacturing,Affluent Customer,N,No,9,2761,NSW,8
+Gipsy,Ewestace,Female,Above 64,21-30,Cat_1,Business Systems Development Analyst,Retail,High Net Worth,N,Yes,5,2034,NSW,12
+Sheena,Kybbye,Female,Above 64,11-20,Cat_2,Paralegal,Financial Services,Affluent Customer,N,Yes,19,4852,QLD,1
+Jobina,Gobourn,Female,25-34,81-90,Cat_2,VP Quality Control,Financial Services,High Net Worth,N,Yes,14,4305,QLD,4
+Gale,Disbrow,Female,45-54,51-60,Cat_2,Cost Accountant,Financial Services,Mass Customer,N,Yes,17,3741,VIC,7
+Thaxter,Kingsbury,Male,Above 64,11-20,Cat_1,Product Engineer,Argiculture,Mass Customer,N,No,20,2067,NSW,12
+Heinrick,Shilstone,Male,45-54,51-60,Cat_2,Chemical Engineer,Manufacturing,Affluent Customer,N,No,10,3174,VIC,8
+Taylor,Steuhlmeyer,Male,18-24,61-70,Cat_2,Paralegal,Financial Services,Affluent Customer,N,Yes,5,4017,QLD,8
+Griswold,Kelsall,Male,25-34,51-60,Cat_2,Social Worker,Health,High Net Worth,N,Yes,11,3805,VIC,7
+Odessa,Mc Andrew,Female,35-44,Above 90,Cat_1,Account Coordinator,Property,Mass Customer,N,No,8,2232,NSW,10
+Lavena,Seekings,Female,25-34,81-90,Cat_2,Payment Adjustment Coordinator,Retail,Mass Customer,N,No,16,3166,VIC,10
+Martelle,Tuppeny,Female,35-44,51-60,Cat_1,Marketing Assistant,Manufacturing,Mass Customer,N,No,9,2226,NSW,10
+Briant,Ladley,Male,35-44,71-80,Cat_1,Recruiter,Argiculture,Mass Customer,N,No,12,2750,NSW,8
+Marylou,Kirkup,Female,45-54,51-60,Cat_2,VP Product Management,Manufacturing,Mass Customer,N,No,14,3196,VIC,9
+Whittaker,,Male,55-64,61-70,Cat_2,Media Manager III,Health,Mass Customer,N,Yes,8,3156,VIC,5
+Lorrie,Antonelli,Male,35-44,41-50,Cat_1,Cost Accountant,Financial Services,High Net Worth,N,Yes,17,2257,NSW,7
+Jedediah,Kedie,Male,45-54,31-40,Cat_1,Developer I,Argiculture,Mass Customer,N,Yes,9,2763,NSW,9
+Kaine,Smallcombe,Male,Above 64,51-60,Cat_1,Senior Financial Analyst,Financial Services,High Net Worth,N,No,11,2072,NSW,10
+Loise,Iltchev,Female,55-64,61-70,Cat_2,Electrical Engineer,Manufacturing,High Net Worth,N,Yes,17,4504,QLD,6
+Cristen,Maroney,Female,18-24,21-30,Cat_2,Accountant IV,IT,High Net Worth,N,Yes,7,4214,QLD,7
+Dorothy,Barnardo,Female,35-44,51-60,Cat_1,Human Resources Manager,Retail,High Net Worth,N,No,12,2168,NSW,8
+Rosmunda,Duxbarry,Female,25-34,61-70,Cat_2,Executive Secretary,Property,Affluent Customer,N,Yes,5,4208,QLD,11
+Rozamond,Riha,Female,35-44,51-60,Cat_2,Account Representative I,Manufacturing,Affluent Customer,N,Yes,16,4078,QLD,7
+Gunner,Petti,Male,18-24,61-70,Cat_2,Executive Secretary,Financial Services,High Net Worth,N,Yes,3,4036,QLD,5
+Vivienne,Crayden,Female,25-34,81-90,Cat_2,Associate Professor,Manufacturing,High Net Worth,N,Yes,6,4173,QLD,7
+Sherilyn,Canero,Female,25-34,11-20,Cat_1,Dental Hygienist,Health,High Net Worth,N,Yes,13,2484,NSW,7
+Bessie,Roscow,Female,25-34,71-80,Cat_1,GIS Technical Architect,Financial Services,Mass Customer,N,No,9,2121,NSW,10
+Kevina,Ferandez,Female,18-24,71-80,Cat_2,Assistant Professor,Financial Services,High Net Worth,N,No,15,4068,QLD,9
+Yancy,Clementet,Male,55-64,Below 10,Cat_1,Mechanical Systems Engineer,Retail,High Net Worth,N,No,15,2147,NSW,9
+Mabelle,Wellbelove,Female,55-64,71-80,Cat_1,Cost Accountant,Financial Services,Affluent Customer,N,Yes,19,2219,NSW,9
+Hasheem,Groucock,Male,45-54,Above 90,Cat_1,Budget/Accounting Analyst IV,Manufacturing,High Net Worth,N,Yes,10,2034,NSW,12
+Tobias,Woodhams,Male,55-64,Below 10,Cat_1,Research Nurse,Health,Mass Customer,N,No,17,2759,NSW,9
+Glennis,Flintoff,Female,Above 64,31-40,Cat_2,Speech Pathologist,Health,Affluent Customer,N,Yes,13,3030,VIC,7
+Chanda,Mensler,Female,45-54,11-20,Cat_1,Computer Systems Analyst IV,Manufacturing,Mass Customer,N,Yes,13,2212,NSW,10
+Katheryn,Kinner,Female,45-54,11-20,Cat_1,Analyst Programmer,Entertainment,High Net Worth,N,No,6,2518,NSW,6
+Sumner,Carrivick,Male,25-34,51-60,Cat_1,Desktop Support Technician,Manufacturing,Mass Customer,N,No,15,2097,NSW,12
+Valerie,Pickover,Female,55-64,31-40,Cat_1,Editor,Financial Services,Mass Customer,N,No,9,2756,NSW,8
+Esther,Rooson,Female,35-44,11-20,Cat_1,Cost Accountant,Financial Services,Mass Customer,N,No,5,2046,NSW,9
+Gardie,Crellim,Male,45-54,51-60,Cat_2,Biostatistician IV,Manufacturing,High Net Worth,N,No,8,3161,VIC,12
+Sean,O'Loughlin,Male,55-64,41-50,Cat_1,Database Administrator III,Manufacturing,High Net Worth,N,Yes,16,2576,NSW,10
+Pietra,Buckleigh,Female,Above 64,Below 10,Cat_1,Engineer III,Manufacturing,High Net Worth,N,No,13,2024,NSW,10
+Marysa,Rouchy,Female,18-24,Below 10,Cat_1,Assistant Media Planner,Entertainment,Affluent Customer,N,No,5,2026,NSW,9
+Kahaleel,,Male,Above 64,Below 10,Cat_1,GIS Technical Architect,Financial Services,High Net Worth,N,No,13,2035,NSW,12
+Ossie,Midden,Male,Above 64,41-50,Cat_1,Physical Therapy Assistant,Manufacturing,Mass Customer,N,Yes,14,2479,NSW,9
+Sid,Carlone,Male,45-54,21-30,Cat_2,Structural Engineer,Health,Affluent Customer,N,No,16,4670,QLD,2
+Ludovico,Juster,Male,25-34,Above 90,Cat_1,Environmental Specialist,Manufacturing,Affluent Customer,N,No,15,2125,NSW,10
+Patricia,Everix,Female,45-54,31-40,Cat_1,Director of Sales,Health,Mass Customer,N,No,19,2263,NSW,7
+Andromache,Bonafacino,Female,45-54,81-90,Cat_1,Sales Representative,Retail,Mass Customer,N,No,11,2015,NSW,9
+Levy,Abramamov,Male,Above 64,Above 90,Cat_2,Teacher,Financial Services,Affluent Customer,N,Yes,14,4037,QLD,8
+Jehu,Prestedge,Male,18-24,Above 90,Cat_1,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,8,2138,NSW,12
+Symon,Mawne,Male,Above 64,11-20,Cat_2,Human Resources Assistant IV,Property,Mass Customer,N,Yes,15,3350,VIC,4
+Karlik,Penchen,Male,25-34,51-60,Cat_2,Nurse Practicioner,Retail,Mass Customer,N,No,11,4017,QLD,6
+Bengt,Bilson,Male,45-54,21-30,Cat_1,Structural Engineer,Manufacturing,High Net Worth,N,No,11,2232,NSW,10
+Evangelin,Boc,Female,18-24,21-30,Cat_2,Structural Analysis Engineer,Manufacturing,High Net Worth,N,Yes,14,3173,VIC,8
+Hanny,Treven,Female,25-34,81-90,Cat_2,Associate Professor,Retail,Mass Customer,N,No,3,4118,QLD,4
+Gina,Mallon,Female,25-34,51-60,Cat_2,Dental Hygienist,Health,Mass Customer,N,No,12,4670,QLD,2
+Reynold,Elman,Male,Above 64,11-20,Cat_1,Marketing Manager,Manufacturing,Mass Customer,N,No,9,2390,NSW,2
+Flossy,Concannon,Female,35-44,61-70,Cat_2,Staff Accountant IV,Financial Services,Affluent Customer,N,No,8,3919,VIC,2
+Cristen,Wiltshire,Female,55-64,51-60,Cat_2,VP Sales,Financial Services,High Net Worth,N,Yes,15,3047,VIC,6
+Griffith,Escot,Male,Above 64,41-50,Cat_2,Accountant III,IT,Mass Customer,N,Yes,16,4116,QLD,3
+Jamie,Jiruca,Female,55-64,21-30,Cat_1,Recruiting Manager,Argiculture,Mass Customer,N,No,18,2230,NSW,9
+Lyon,Brittan,Male,45-54,11-20,Cat_2,Sales Representative,Retail,High Net Worth,N,No,19,3153,VIC,8
+Aridatha,Sephton,Female,55-64,Above 90,Cat_1,Human Resources Assistant II,Manufacturing,Mass Customer,N,No,5,2340,NSW,1
+Michal,Bryan,Female,45-54,Below 10,Cat_2,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,16,4000,QLD,8
+Franciska,Stigell,Female,45-54,Above 90,Cat_2,Food Chemist,Health,Mass Customer,N,Yes,7,3802,VIC,7
+Jordan,Clampe,Male,Above 64,31-40,Cat_2,Staff Scientist,Financial Services,Mass Customer,N,Yes,11,4207,QLD,5
+David,Napoleon,Male,55-64,71-80,Cat_1,Structural Engineer,Manufacturing,High Net Worth,N,No,14,2223,NSW,11
+Meriel,Tapp,Female,25-34,Below 10,Cat_2,VP Sales,IT,Mass Customer,N,No,5,3280,VIC,2
+Dolley,Starmont,Female,45-54,51-60,Cat_2,Geologist IV,Manufacturing,Affluent Customer,N,No,18,4129,QLD,6
+Frederik,Milan,Male,25-34,41-50,Cat_1,Social Worker,Health,Mass Customer,N,No,5,2546,NSW,5
+Rollo,Louedey,Male,Above 64,61-70,Cat_1,Information Systems Manager,Telecommunications,Affluent Customer,N,Yes,17,2089,NSW,9
+Jerrine,Cosbey,Female,45-54,21-30,Cat_2,Junior Executive,Financial Services,High Net Worth,N,Yes,6,3094,VIC,9
+Roddy,Rubinshtein,Male,35-44,31-40,Cat_2,Nurse Practicioner,Retail,Mass Customer,N,Yes,4,4510,QLD,7
+Viki,Coutts,Female,Above 64,Below 10,Cat_1,Automation Specialist II,Property,Mass Customer,N,Yes,7,2287,NSW,4
+Ashby,Bispham,Male,35-44,71-80,Cat_1,Software Consultant,Retail,Affluent Customer,N,No,4,2145,NSW,8
+Alexander,Broadbent,Male,25-34,51-60,Cat_1,Desktop Support Technician,Financial Services,Mass Customer,N,No,9,2209,NSW,10
+Teddy,Lagadu,Female,45-54,81-90,Cat_1,Design Engineer,Manufacturing,High Net Worth,N,No,6,2759,NSW,8
+Peria,Rantoull,Female,45-54,Below 10,Cat_2,Financial Analyst,Financial Services,Mass Customer,N,No,4,4500,QLD,4
+Ludvig,Andren,Male,Above 64,41-50,Cat_2,Media Manager III,Health,High Net Worth,N,Yes,15,4306,QLD,5
+Elsworth,Abbitt,Male,Above 64,71-80,Cat_2,Social Worker,Health,Mass Customer,N,Yes,6,3500,VIC,3
+Rebeca,Aggas,Female,Above 64,61-70,Cat_2,Social Worker,Health,Affluent Customer,N,No,21,3818,VIC,1
+Ricki,Dobrowski,Male,45-54,11-20,Cat_1,Civil Engineer,Manufacturing,Mass Customer,N,Yes,9,2835,NSW,1
+Georgetta,Lovett,Female,Above 64,41-50,Cat_2,Editor,Retail,Mass Customer,N,No,12,4405,QLD,1
+Bambi,Cogger,Female,25-34,51-60,Cat_1,Design Engineer,Retail,Affluent Customer,N,Yes,5,2560,NSW,7
+Aurie,Rhead,Female,55-64,71-80,Cat_1,Geological Engineer,Manufacturing,Affluent Customer,N,Yes,5,2650,NSW,2
+Farris,Skettles,Male,55-64,31-40,Cat_2,Payment Adjustment Coordinator,Manufacturing,Mass Customer,N,Yes,13,3240,VIC,7
+Nowell,Preddy,Male,35-44,21-30,Cat_1,Chemical Engineer,Manufacturing,Mass Customer,N,No,9,2173,NSW,9
+Lacy,Drance,Female,45-54,21-30,Cat_1,Graphic Designer,Manufacturing,Affluent Customer,N,Yes,14,2750,NSW,8
+Padraig,Snel,Male,45-54,81-90,Cat_1,Staff Accountant II,Financial Services,Mass Customer,N,No,19,2114,NSW,7
+Malorie,Votier,Female,25-34,81-90,Cat_2,Graphic Designer,Manufacturing,Affluent Customer,N,No,4,4509,QLD,5
+Shepperd,Ricards,Male,55-64,21-30,Cat_1,Social Worker,Health,Mass Customer,N,Yes,16,2284,NSW,4
+Daryl,Pauncefort,Female,35-44,11-20,Cat_1,Community Outreach Specialist,Financial Services,Mass Customer,N,Yes,12,2380,NSW,3
+Norina,Blakeway,Female,35-44,51-60,Cat_2,Programmer Analyst II,Property,Mass Customer,N,Yes,3,3081,VIC,8
+My,Chaston,Male,55-64,Above 90,Cat_2,Desktop Support Technician,Manufacturing,Affluent Customer,N,Yes,16,3765,VIC,9
+Isak,Bergstram,Male,18-24,11-20,Cat_1,Pharmacist,Health,Affluent Customer,N,Yes,15,2176,NSW,9
+Grannie,Cracker,Male,Above 64,21-30,Cat_2,VP Marketing,Retail,Mass Customer,N,Yes,20,4217,QLD,8
+Welby,Lourenco,Male,45-54,Below 10,Cat_1,Senior Cost Accountant,Financial Services,High Net Worth,N,Yes,17,2138,NSW,9
+Glenn,Casbourne,Female,35-44,Below 10,Cat_2,Senior Editor,Manufacturing,Mass Customer,N,No,6,4207,QLD,1
+Nadiya,Balasini,Female,Above 64,31-40,Cat_1,Sales Associate,Financial Services,Mass Customer,N,No,15,2164,NSW,9
+Tyne,Coate,Female,55-64,81-90,Cat_1,Developer II,Manufacturing,Mass Customer,N,No,17,2218,NSW,8
+Christie,Anders,Male,45-54,31-40,Cat_1,VP Marketing,Retail,Mass Customer,N,No,16,2153,NSW,10
+Agnella,Capener,Female,45-54,51-60,Cat_2,Teacher,Health,High Net Worth,N,No,19,3977,VIC,6
+Bernardine,Delmonti,Female,45-54,31-40,Cat_1,Account Coordinator,Property,Mass Customer,N,No,17,2540,NSW,8
+Daisy,Spowart,Female,55-64,51-60,Cat_2,Staff Accountant I,Health,Affluent Customer,N,Yes,4,4570,QLD,3
+Denys,Minshall,Female,55-64,21-30,Cat_1,Environmental Tech,Manufacturing,Affluent Customer,N,Yes,14,2324,NSW,8
+Archibald,Blessed,Male,45-54,61-70,Cat_1,VP Sales,Financial Services,Mass Customer,N,Yes,18,2016,NSW,11
+Feodor,Englishby,Male,55-64,51-60,Cat_2,Account Coordinator,Health,Mass Customer,N,No,11,3201,VIC,5
+Skippie,Yearsley,Male,Above 64,Below 10,Cat_2,Compensation Analyst,Financial Services,Mass Customer,N,No,9,4350,QLD,5
+Bill,,Female,55-64,71-80,Cat_1,Human Resources Assistant II,Property,Mass Customer,N,Yes,19,2170,NSW,9
+Tessa,Friese,Female,45-54,81-90,Cat_2,Health Coach II,Financial Services,Mass Customer,N,No,21,4212,QLD,9
+Roseanne,Caruth,Female,Above 64,11-20,Cat_1,Programmer Analyst III,Health,Mass Customer,N,No,7,2763,NSW,9
+Tedra,Goodbanne,Female,45-54,Below 10,Cat_2,Senior Quality Engineer,Financial Services,Mass Customer,N,Yes,6,3934,VIC,9
+Roberto,Harme,Male,Above 64,21-30,Cat_1,Environmental Tech,Financial Services,High Net Worth,N,No,10,2564,NSW,9
+Nichole,Leisman,Male,35-44,31-40,Cat_1,Geologist III,Property,Affluent Customer,N,No,4,2068,NSW,12
+Amil,Ennor,Female,25-34,21-30,Cat_2,Health Coach II,Health,Mass Customer,N,Yes,10,3109,VIC,11
+Shawna,Hinrichsen,Female,45-54,51-60,Cat_1,Assistant Professor,Manufacturing,Affluent Customer,N,Yes,9,2326,NSW,2
+Fonsie,Levane,Male,Above 64,Above 90,Cat_2,Account Representative III,Health,High Net Worth,N,Yes,19,4011,QLD,3
+Emilie,Brody,Female,35-44,Below 10,Cat_1,Director of Sales,Financial Services,Mass Customer,N,Yes,3,2073,NSW,11
+Robert,Corkill,Male,45-54,51-60,Cat_1,Clinical Specialist,Health,Mass Customer,N,No,4,2227,NSW,10
+Elvira,Kurten,Female,45-54,61-70,Cat_1,Assistant Professor,Financial Services,High Net Worth,N,No,12,2471,NSW,3
+Juliana,Mitchenson,Female,25-34,51-60,Cat_2,Environmental Tech,Manufacturing,Mass Customer,N,Yes,8,4350,QLD,4
+Regine,Bownes,Female,Above 64,Above 90,Cat_2,Senior Developer,Retail,Affluent Customer,N,No,15,3752,VIC,9
+Abner,Fraschetti,Male,35-44,31-40,Cat_2,Staff Scientist,Argiculture,Affluent Customer,N,No,13,3805,VIC,7
+Alvira,Coulman,Female,Above 64,41-50,Cat_1,Account Representative II,Health,Affluent Customer,N,No,14,2205,NSW,9
+Sawyer,Sponton,Male,Above 64,31-40,Cat_1,Help Desk Technician,Property,Mass Customer,N,Yes,10,2126,NSW,11
+Feodor,Vickers,Male,25-34,51-60,Cat_1,VP Quality Control,Financial Services,Mass Customer,N,Yes,4,2209,NSW,6
+Paten,Cayet,Male,25-34,51-60,Cat_2,Assistant Manager,Manufacturing,Affluent Customer,N,Yes,16,3850,VIC,1
+Loria,Tappington,Female,Above 64,71-80,Cat_2,Research Assistant IV,Property,Mass Customer,N,No,5,3038,VIC,8
+Tanya,Kiefer,Female,25-34,51-60,Cat_1,Speech Pathologist,Telecommunications,High Net Worth,N,No,7,2146,NSW,9
+Devonne,Alderwick,Female,Above 64,71-80,Cat_2,Research Associate,Manufacturing,High Net Worth,N,Yes,9,3122,VIC,7
+Omero,McDonand,Male,Above 64,51-60,Cat_1,Software Consultant,Manufacturing,Mass Customer,N,No,16,2066,NSW,9
+Iain,Haversham,Male,Above 64,Above 90,Cat_1,Sales Representative,Retail,Mass Customer,N,Yes,13,2120,NSW,10
+Keriann,Newham,Female,45-54,71-80,Cat_2,Assistant Manager,Financial Services,Mass Customer,N,No,5,4179,QLD,9
+Conroy,Rappaport,Male,55-64,31-40,Cat_1,Assistant Manager,Health,High Net Worth,N,No,9,2148,NSW,9
+Dorian,Rustman,Male,45-54,71-80,Cat_2,Junior Executive,Manufacturing,Mass Customer,N,No,18,4352,QLD,7
+Quillan,Guinane,Male,Above 64,31-40,Cat_1,Community Outreach Specialist,Financial Services,High Net Worth,N,Yes,21,2177,NSW,8
+Harlin,Mazin,Male,45-54,31-40,Cat_1,Computer Systems Analyst I,Manufacturing,Mass Customer,N,Yes,13,2454,NSW,7
+Eustacia,Dornan,Female,35-44,61-70,Cat_2,Account Representative IV,Property,Mass Customer,N,No,5,3806,VIC,9
+Maury,Galego,Male,25-34,61-70,Cat_2,Social Worker,Health,High Net Worth,N,Yes,3,3032,VIC,10
+Reggie,Kernar,Female,45-54,21-30,Cat_1,Senior Editor,Financial Services,High Net Worth,N,No,17,2228,NSW,10
+Brigitte,Whellams,Female,45-54,61-70,Cat_1,Payment Adjustment Coordinator,Manufacturing,Mass Customer,N,Yes,17,2766,NSW,8
+Kinna,Kollasch,Female,35-44,Below 10,Cat_2,Safety Technician I,Property,High Net Worth,N,No,9,4060,QLD,10
+Maurizio,Comi,Male,25-34,71-80,Cat_1,VP Product Management,IT,Affluent Customer,N,No,10,2766,NSW,9
+Elbertina,Fendley,Female,25-34,31-40,Cat_1,Physical Therapy Assistant,Property,Affluent Customer,N,No,8,2117,NSW,11
+Franklin,Wohler,Male,Above 64,51-60,Cat_1,Clinical Specialist,Health,Mass Customer,N,Yes,7,2250,NSW,8
+Allyson,Petchell,Female,45-54,11-20,Cat_1,Human Resources Manager,Telecommunications,High Net Worth,N,No,10,2170,NSW,8
+Ermentrude,Heindle,Female,45-54,41-50,Cat_1,GIS Technical Architect,Argiculture,Mass Customer,N,No,7,2226,NSW,10
+Alanna,Lerway,Female,Above 64,21-30,Cat_2,Dental Hygienist,Health,Mass Customer,N,Yes,11,3195,VIC,12
+Vincent,Jopke,Male,45-54,Below 10,Cat_2,Analog Circuit Design manager,Property,Affluent Customer,N,No,16,3687,VIC,3
+Mandie,Jeffryes,Female,35-44,51-60,Cat_2,Business Systems Development Analyst,Financial Services,High Net Worth,N,No,7,4109,QLD,9
+Collete,Dory,Female,25-34,61-70,Cat_1,Information Systems Manager,Health,High Net Worth,N,No,2,2210,NSW,9
+Leonid,Dorricott,Male,25-34,41-50,Cat_1,Environmental Tech,Financial Services,Affluent Customer,N,No,3,2448,NSW,3
+Charlena,Berney,Female,55-64,51-60,Cat_2,Geological Engineer,Manufacturing,High Net Worth,N,Yes,12,4207,QLD,4
+Engracia,Dobbs,Female,55-64,81-90,Cat_1,Social Worker,Health,Mass Customer,N,No,15,2250,NSW,8
+Glyn,,Male,Above 64,41-50,Cat_1,General Manager,Manufacturing,Affluent Customer,N,Yes,21,2300,NSW,9
+Rosemonde,Cartwight,Female,Above 64,41-50,Cat_2,Analyst Programmer,Retail,Mass Customer,N,Yes,7,4605,QLD,1
+Alano,Satchel,Male,18-24,Below 10,Cat_1,Recruiting Manager,Manufacturing,Mass Customer,N,No,2,2429,NSW,7
+Corrine,Baribal,Female,Above 64,11-20,Cat_1,Senior Sales Associate,Manufacturing,Affluent Customer,N,Yes,12,2170,NSW,8
+Benoit,Harniman,Male,45-54,31-40,Cat_2,Research Assistant II,Telecommunications,Affluent Customer,N,No,9,4018,QLD,7
+Jenelle,Fearnill,Female,Above 64,11-20,Cat_1,Social Worker,Health,High Net Worth,N,No,19,2144,NSW,9
+Tannie,Gambrell,Male,55-64,Above 90,Cat_2,Financial Analyst,Financial Services,Affluent Customer,N,No,4,4710,QLD,4
+Mick,Macewan,Male,55-64,31-40,Cat_1,Senior Cost Accountant,Financial Services,Mass Customer,N,No,16,2032,NSW,10
+Abbie,Oldman,Male,35-44,81-90,Cat_1,Social Worker,Health,High Net Worth,N,Yes,5,2168,NSW,8
+Tabbie,Curner,Male,25-34,11-20,Cat_2,Chief Design Engineer,Retail,Mass Customer,N,No,6,3021,VIC,6
+Shane,Killen,Male,Above 64,21-30,Cat_1,Account Executive,Entertainment,High Net Worth,N,No,10,2165,NSW,8
+Roberta,Goodale,Female,Above 64,Below 10,Cat_2,Information Systems Manager,Property,Mass Customer,N,Yes,22,4211,QLD,7
+Kippy,Barabisch,Male,18-24,11-20,Cat_1,Legal Assistant,Manufacturing,Mass Customer,N,No,4,2125,NSW,11
+Rosalinde,Cubuzzi,Female,25-34,41-50,Cat_1,Business Systems Development Analyst,Financial Services,Mass Customer,N,No,5,2444,NSW,7
+Cami,Barnbrook,Female,55-64,Below 10,Cat_2,Occupational Therapist,Health,Affluent Customer,N,Yes,18,4285,QLD,2
+Dorian,Stollen,Male,35-44,71-80,Cat_1,Statistician I,Financial Services,Mass Customer,N,Yes,18,2026,NSW,11
+Hunfredo,Hayball,Male,25-34,Below 10,Cat_1,Business Systems Development Analyst,IT,Affluent Customer,N,No,3,2227,NSW,8
+Giorgi,O'Shirine,Male,35-44,61-70,Cat_2,Payment Adjustment Coordinator,Retail,Mass Customer,N,Yes,15,3934,VIC,8
+Kort,Disley,Male,35-44,61-70,Cat_1,Technical Writer,Health,Mass Customer,N,Yes,7,2160,NSW,9
+Tobiah,Heinsius,Male,18-24,61-70,Cat_1,Chief Design Engineer,Health,High Net Worth,N,No,9,2446,NSW,8
+Wallace,Newart,Male,45-54,Above 90,Cat_2,Business Systems Development Analyst,IT,Mass Customer,N,No,17,4650,QLD,1
+Hersh,Stubbert,Male,18-24,Below 10,Cat_2,Technical Writer,Manufacturing,Mass Customer,N,Yes,15,4115,QLD,8
+Wyn,Saynor,Male,55-64,51-60,Cat_1,Cost Accountant,Financial Services,High Net Worth,N,No,8,2099,NSW,9
+Maribeth,Stivani,Female,Above 64,41-50,Cat_1,Associate Professor,Financial Services,Mass Customer,N,No,7,2430,NSW,8
+Abigale,Sives,Female,55-64,41-50,Cat_2,VP Marketing,Health,Affluent Customer,N,Yes,14,4207,QLD,4
+Gothart,Artus,Male,35-44,51-60,Cat_1,Health Coach IV,Health,Mass Customer,N,Yes,14,2117,NSW,10
+Danny,Bodle,Male,Above 64,41-50,Cat_1,Statistician I,Manufacturing,Mass Customer,N,Yes,18,2007,NSW,9
+Vittorio,Boxen,Male,55-64,Above 90,Cat_1,Mechanical Systems Engineer,Retail,Mass Customer,N,No,14,2148,NSW,9
+Deborah,Petrovsky,Female,Above 64,51-60,Cat_1,Teacher,Property,Mass Customer,N,No,16,2011,NSW,7
+Agace,Hedge,Female,25-34,21-30,Cat_2,Media Manager II,Financial Services,Mass Customer,N,Yes,13,3429,VIC,8
+Rolland,Esmead,Male,Above 64,41-50,Cat_1,Social Worker,Health,Affluent Customer,N,No,8,2200,NSW,8
+Latrena,Walklate,Female,Above 64,Above 90,Cat_1,Mechanical Systems Engineer,Telecommunications,High Net Worth,N,Yes,13,2281,NSW,8
+Mariquilla,Springthorpe,Female,Above 64,21-30,Cat_1,Director of Sales,Financial Services,Mass Customer,N,Yes,8,2224,NSW,10
+Leticia,Danovich,Female,Above 64,81-90,Cat_2,Design Engineer,Entertainment,Mass Customer,N,Yes,15,4307,QLD,1
+Harman,Lynds,Male,55-64,Below 10,Cat_2,Professor,Financial Services,Mass Customer,N,Yes,5,4105,QLD,8
+Farra,Matyushkin,Female,45-54,11-20,Cat_2,VP Quality Control,Manufacturing,High Net Worth,N,Yes,9,3170,VIC,9
+Robenia,Monks,Female,55-64,Above 90,Cat_2,Nurse Practicioner,Manufacturing,Mass Customer,N,No,5,4065,QLD,9
+Roman,Eastwood,Male,45-54,51-60,Cat_1,Associate Professor,Manufacturing,Affluent Customer,N,Yes,16,3004,VIC,4
+Solomon,Bruck,Male,Above 64,21-30,Cat_2,Junior Executive,Health,Mass Customer,N,No,12,4556,QLD,8
+Krystyna,Airey,Female,Above 64,Below 10,Cat_2,Safety Technician II,Financial Services,Mass Customer,N,Yes,19,4006,QLD,5
+Katharine,Redbourn,Female,55-64,Below 10,Cat_2,Recruiter,Manufacturing,Affluent Customer,N,Yes,4,3134,VIC,10
+Cammy,Stoneham,Female,55-64,71-80,Cat_2,Business Systems Development Analyst,Financial Services,High Net Worth,N,No,14,4680,QLD,3
+Ellsworth,Andrieux,Male,45-54,41-50,Cat_2,Senior Cost Accountant,Financial Services,Affluent Customer,N,Yes,10,4036,QLD,7
+Federico,Leuty,Male,35-44,51-60,Cat_1,Product Engineer,Property,High Net Worth,N,Yes,11,2380,NSW,4
+Ferdy,Hornung,Male,45-54,51-60,Cat_2,Analog Circuit Design manager,Entertainment,High Net Worth,N,No,18,4506,QLD,3
+Sunny,Christescu,Female,45-54,81-90,Cat_1,Cost Accountant,Financial Services,Mass Customer,N,No,11,2209,NSW,10
+Shadow,Yakutin,Male,55-64,81-90,Cat_2,Software Test Engineer IV,Health,Affluent Customer,N,Yes,6,4119,QLD,2
+Sharai,Priddie,Female,55-64,11-20,Cat_1,Sales Representative,Retail,Mass Customer,N,No,9,2145,NSW,9
+Celeste,Fretson,Female,35-44,Above 90,Cat_1,Product Engineer,IT,Mass Customer,N,No,9,2166,NSW,9
+Lea,Ilyinski,Female,25-34,71-80,Cat_1,Structural Analysis Engineer,Financial Services,High Net Worth,N,No,12,2026,NSW,12
+Dyann,Olechnowicz,Female,Above 64,11-20,Cat_2,Nuclear Power Engineer,Manufacturing,Mass Customer,N,No,16,3031,VIC,10
+Delly,Sunman,Female,55-64,41-50,Cat_2,Account Coordinator,Retail,Mass Customer,N,No,15,3206,VIC,12
+Malvin,Ryhorovich,Male,55-64,31-40,Cat_2,Quality Control Specialist,Manufacturing,Mass Customer,N,No,5,4818,QLD,3
+Tanya,Hamberston,Female,18-24,41-50,Cat_2,Product Engineer,Manufacturing,Mass Customer,N,Yes,9,4113,QLD,6
+Kaela,Romaines,Female,45-54,41-50,Cat_1,Geological Engineer,Manufacturing,High Net Worth,N,No,19,2155,NSW,10
+Evonne,Bembridge,Female,45-54,Below 10,Cat_2,Recruiting Manager,Retail,Mass Customer,N,Yes,14,3103,VIC,9
+Shannen,Lewin,Female,25-34,21-30,Cat_2,Analog Circuit Design manager,Argiculture,High Net Worth,N,No,6,4210,QLD,6
+Bogey,Attew,Male,25-34,81-90,Cat_2,Software Engineer II,IT,Mass Customer,N,Yes,10,4165,QLD,9
+Zondra,Ringham,Female,Above 64,31-40,Cat_2,Cost Accountant,Financial Services,Mass Customer,N,Yes,7,4510,QLD,5
+Barnebas,Apfel,Male,25-34,51-60,Cat_1,Account Executive,Manufacturing,Affluent Customer,N,Yes,2,4000,QLD,6
+Gerri,Schimann,Female,45-54,81-90,Cat_1,Desktop Support Technician,Property,Mass Customer,N,Yes,18,2566,NSW,8
+Antonietta,Egle,Female,45-54,81-90,Cat_2,Actuary,Financial Services,Mass Customer,N,No,7,3805,VIC,7
+Raff,Waycott,Male,Above 64,61-70,Cat_2,Engineer IV,Manufacturing,Affluent Customer,N,Yes,14,3977,VIC,7
+Lark,Gonet,Female,45-54,81-90,Cat_1,Database Administrator II,Health,High Net Worth,N,No,8,2763,NSW,8
+Cletis,Longley,Male,25-34,81-90,Cat_1,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,1,3199,VIC,7
+Bartram,Di Lucia,Male,55-64,61-70,Cat_1,Executive Secretary,Argiculture,Mass Customer,N,Yes,5,2480,NSW,3
+Theresa,Cowper,Female,45-54,Above 90,Cat_1,Accountant III,Manufacturing,Mass Customer,N,No,3,2529,NSW,10
+Philbert,Raraty,Male,Above 64,41-50,Cat_1,Executive Secretary,Manufacturing,Mass Customer,N,No,6,2177,NSW,9
+Egon,Ortells,Male,45-54,31-40,Cat_1,Structural Engineer,Manufacturing,Affluent Customer,N,No,13,2168,NSW,9
+Dahlia,Shovlar,Female,55-64,81-90,Cat_2,Environmental Specialist,Manufacturing,Affluent Customer,N,Yes,7,3976,VIC,3
+Timi,Duny,Female,Above 64,61-70,Cat_1,Office Assistant II,Telecommunications,High Net Worth,N,No,6,2092,NSW,12
+Dominick,Asher,Male,55-64,41-50,Cat_2,Research Associate,Health,Affluent Customer,N,Yes,5,3804,VIC,9
+Raye,Roo,Female,45-54,61-70,Cat_2,Database Administrator I,Financial Services,Mass Customer,N,Yes,16,3046,VIC,9
+Becka,Hacon,Female,55-64,81-90,Cat_2,General Manager,Financial Services,Affluent Customer,N,No,17,3791,VIC,9
+Cirillo,Frossell,Male,45-54,Below 10,Cat_1,Graphic Designer,Financial Services,Mass Customer,N,No,6,2111,NSW,12
+Verla,Dumingos,Female,45-54,21-30,Cat_2,Design Engineer,Telecommunications,Mass Customer,N,Yes,10,3021,VIC,8
+Sherrie,Godleman,Female,35-44,31-40,Cat_2,Associate Professor,Manufacturing,Mass Customer,N,No,19,3350,VIC,2
+Dexter,Shutle,Male,55-64,81-90,Cat_2,Quality Control Specialist,Manufacturing,Mass Customer,N,No,17,4005,QLD,7
+Konstanze,Hovie,Female,55-64,81-90,Cat_2,Pharmacist,Health,Mass Customer,N,No,11,4370,QLD,7
+Bink,Bentje,Male,Above 64,Below 10,Cat_1,Payment Adjustment Coordinator,Financial Services,High Net Worth,N,Yes,19,2680,NSW,3
+Taber,Szymon,Male,Above 64,61-70,Cat_2,Senior Sales Associate,Argiculture,Affluent Customer,N,No,13,4659,QLD,8
+Debbi,Dannatt,Female,55-64,Below 10,Cat_2,Technical Writer,Manufacturing,Affluent Customer,N,No,6,4218,QLD,10
+Giana,Staresmeare,Female,45-54,Above 90,Cat_1,Account Representative IV,Retail,Affluent Customer,N,Yes,9,2770,NSW,7
+Morton,Petkens,Male,25-34,41-50,Cat_2,Account Coordinator,Manufacturing,High Net Worth,N,Yes,10,3012,VIC,1
+Vittoria,Whitney,Female,35-44,Above 90,Cat_1,Research Assistant I,Manufacturing,High Net Worth,N,No,12,2019,NSW,11
+Paquito,Atwood,Male,45-54,11-20,Cat_2,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,No,9,3199,VIC,8
+Dimitri,Tribbeck,Male,55-64,81-90,Cat_2,Chief Design Engineer,Manufacturing,Affluent Customer,N,No,20,3165,VIC,6
+Shelli,Bartholomaus,Female,55-64,81-90,Cat_2,Associate Professor,Health,Mass Customer,N,Yes,6,3082,VIC,7
+Kermit,Lebond,Male,35-44,31-40,Cat_2,Financial Advisor,Financial Services,Mass Customer,N,No,4,4208,QLD,8
+Biddie,Gorce,Female,35-44,61-70,Cat_1,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,5,2795,NSW,7
+Rupert,Marrow,Male,45-54,71-80,Cat_1,Account Coordinator,Property,High Net Worth,N,No,19,2760,NSW,8
+Geoff,Sitford,Male,55-64,Above 90,Cat_1,Account Executive,Financial Services,Mass Customer,N,Yes,4,2148,NSW,8
+Ange,Chitham,Female,25-34,Above 90,Cat_1,Executive Secretary,Argiculture,Mass Customer,N,No,10,2560,NSW,8
+Tiphanie,Blackader,Female,Above 64,51-60,Cat_1,Physical Therapy Assistant,Retail,Mass Customer,N,No,17,2007,NSW,11
+Zollie,Crinidge,Male,35-44,31-40,Cat_2,Systems Administrator I,Retail,Mass Customer,N,Yes,10,4019,QLD,5
+Daisy,Pollen,Female,25-34,Above 90,Cat_2,Cost Accountant,Financial Services,Mass Customer,N,No,7,3167,VIC,9
+Emelen,Bidnall,Male,35-44,71-80,Cat_1,Systems Administrator IV,Health,Affluent Customer,N,Yes,11,2026,NSW,12
+Linette,Boman,Female,Above 64,51-60,Cat_1,Account Executive,Manufacturing,Affluent Customer,N,No,11,2076,NSW,11
+Manya,Abramovici,Female,Above 64,41-50,Cat_2,Quality Engineer,Financial Services,High Net Worth,N,Yes,13,4214,QLD,8
+Brynna,Tivers,Female,45-54,81-90,Cat_2,Recruiting Manager,Financial Services,Mass Customer,N,No,6,4272,QLD,7
+Art,Carolan,Male,Above 64,Below 10,Cat_1,Marketing Manager,Retail,Affluent Customer,N,Yes,11,2570,NSW,9
+Alfi,Sabbins,Female,55-64,61-70,Cat_1,Cost Accountant,Financial Services,High Net Worth,N,Yes,18,2344,NSW,3
+Loleta,Aberdalgy,Female,35-44,41-50,Cat_1,Occupational Therapist,Health,Mass Customer,N,No,11,2287,NSW,6
+Aldric,Birney,Male,45-54,21-30,Cat_1,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,14,2546,NSW,6
+Natividad,Balducci,Female,25-34,31-40,Cat_2,Account Coordinator,Property,High Net Worth,N,Yes,10,3206,VIC,11
+Claudine,Dymick,Female,55-64,21-30,Cat_2,Design Engineer,Health,Mass Customer,N,No,5,3977,VIC,5
+Seamus,Cains,Male,25-34,61-70,Cat_1,Teacher,Manufacturing,High Net Worth,N,No,7,2305,NSW,8
+Guss,Karim,Male,45-54,Above 90,Cat_1,Senior Sales Associate,Manufacturing,Mass Customer,N,No,7,2227,NSW,11
+Julietta,Setchfield,Female,25-34,71-80,Cat_2,Operator,Manufacturing,High Net Worth,N,Yes,3,4170,QLD,8
+Roch,Symson,Female,35-44,Above 90,Cat_2,Office Assistant I,Manufacturing,High Net Worth,N,No,18,3073,VIC,9
+Audry,Fann,Female,Above 64,Below 10,Cat_2,Pharmacist,Health,Mass Customer,N,Yes,15,3029,VIC,6
+Cecelia,Cisar,Female,35-44,11-20,Cat_2,Account Coordinator,Property,Mass Customer,N,Yes,15,4212,QLD,7
+Clari,Voas,Female,Above 64,71-80,Cat_1,Human Resources Assistant II,Health,Affluent Customer,N,Yes,14,2127,NSW,8
+Zach,Hedman,Male,35-44,81-90,Cat_1,Analyst Programmer,Financial Services,Affluent Customer,N,Yes,4,2566,NSW,9
+Paxon,Roomes,Male,45-54,71-80,Cat_2,Information Systems Manager,Health,High Net Worth,N,Yes,7,3021,VIC,7
+Parnell,Lamprey,Male,45-54,21-30,Cat_1,Engineer III,Financial Services,High Net Worth,N,No,12,2165,NSW,6
+Honey,Gosdin,Female,35-44,Below 10,Cat_1,Software Engineer I,Property,Mass Customer,N,No,17,2582,NSW,9
+Sonny,McCart,Male,25-34,31-40,Cat_2,Account Representative I,Manufacturing,High Net Worth,N,No,9,3020,VIC,9
+Deirdre,Burgoine,Female,Above 64,11-20,Cat_1,Programmer III,Health,High Net Worth,N,No,7,3000,VIC,1
+Haleigh,,Female,Above 64,11-20,Cat_2,Senior Sales Associate,Financial Services,Mass Customer,N,Yes,18,4503,QLD,4
+Aldridge,Poskitt,Male,35-44,81-90,Cat_2,VP Sales,Financial Services,Mass Customer,N,No,12,4161,QLD,5
+Zechariah,McReidy,Male,35-44,31-40,Cat_2,Technical Writer,Manufacturing,High Net Worth,N,No,21,4207,QLD,6
+Carry,Costi,Female,45-54,31-40,Cat_1,Senior Developer,Property,Mass Customer,N,No,11,2800,NSW,4
+Alon,,Male,18-24,11-20,Cat_2,Accountant IV,Manufacturing,Affluent Customer,N,No,9,4218,QLD,3
+Ahmed,Pickthorne,Male,55-64,41-50,Cat_1,Marketing Manager,Retail,High Net Worth,N,Yes,15,2147,NSW,9
+Nil,Shirer,Male,25-34,61-70,Cat_2,Librarian,Entertainment,Mass Customer,N,Yes,7,3013,VIC,8
+Erhard,O'Moylane,Male,35-44,31-40,Cat_2,Media Manager I,Retail,Affluent Customer,N,Yes,9,3630,VIC,2
+Vitia,Axtens,Female,Above 64,61-70,Cat_1,Financial Advisor,Financial Services,Mass Customer,N,Yes,15,2011,NSW,10
+Haskell,Moxted,Male,Above 64,81-90,Cat_1,Civil Engineer,Manufacturing,Mass Customer,N,No,7,2145,NSW,9
+Ebony,Conrad,Female,18-24,Below 10,Cat_2,Environmental Tech,Financial Services,Mass Customer,N,Yes,16,3029,VIC,7
+Lincoln,Boler,Male,45-54,51-60,Cat_2,Chief Design Engineer,Manufacturing,Affluent Customer,N,No,14,3207,VIC,8
+Vladimir,Westmerland,Male,Above 64,11-20,Cat_1,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,18,2640,NSW,4
+Kylynn,Drowsfield,Female,45-54,71-80,Cat_2,Editor,Manufacturing,High Net Worth,N,Yes,7,3059,VIC,9
+Nicole,Ruckhard,Female,45-54,Above 90,Cat_2,Human Resources Manager,Health,Affluent Customer,N,Yes,17,4560,QLD,3
+Celestina,Lethardy,Female,45-54,31-40,Cat_2,Software Consultant,IT,Mass Customer,N,Yes,11,3163,VIC,10
+Tannie,Petrakov,Male,Above 64,81-90,Cat_2,Data Coordiator,IT,Affluent Customer,N,No,10,4078,QLD,6
+Bessy,Saladin,Female,Above 64,21-30,Cat_2,VP Marketing,Manufacturing,Mass Customer,N,Yes,16,4075,QLD,10
+Diego,Van den Broek,Male,55-64,11-20,Cat_2,Business Systems Development Analyst,Manufacturing,Affluent Customer,N,Yes,13,4055,QLD,7
+Lucilia,Minshall,Female,Above 64,71-80,Cat_1,Business Systems Development Analyst,IT,Mass Customer,N,Yes,7,2750,NSW,8
+Cissiee,Pollington,Female,Above 64,41-50,Cat_1,Associate Professor,Property,Mass Customer,N,Yes,7,2256,NSW,9
+Eddy,Sturch,Male,55-64,21-30,Cat_2,Software Consultant,Financial Services,High Net Worth,N,Yes,17,4158,QLD,6
+Caron,Kezar,Female,Above 64,11-20,Cat_1,Social Worker,Health,Mass Customer,N,No,5,2835,NSW,1
+Sandor,Stirland,Male,35-44,61-70,Cat_2,Web Developer IV,Manufacturing,High Net Worth,N,No,12,3235,VIC,10
+Gallagher,Bromell,Male,Above 64,11-20,Cat_2,Assistant Manager,Retail,Mass Customer,N,No,17,4556,QLD,8
+Murial,Bulloch,Female,55-64,51-60,Cat_1,Cost Accountant,Financial Services,Mass Customer,N,No,13,2011,NSW,6
+Delinda,Ech,Female,Above 64,71-80,Cat_2,Environmental Specialist,Argiculture,Mass Customer,N,Yes,17,3101,VIC,10
+Hussein,Tapenden,Male,Above 64,11-20,Cat_1,Pharmacist,Health,Affluent Customer,N,Yes,12,2747,NSW,8
+Giulietta,Garbott,Female,18-24,51-60,Cat_2,Technical Writer,Manufacturing,Affluent Customer,N,Yes,14,3810,VIC,5
+Kaylyn,Jakaway,Female,35-44,41-50,Cat_1,Registered Nurse,Health,Affluent Customer,N,No,10,2290,NSW,8
+Brynn,Goodyear,Female,Above 64,21-30,Cat_2,Human Resources Manager,Health,Mass Customer,N,Yes,11,3075,VIC,7
+Otis,,Male,45-54,51-60,Cat_1,Electrical Engineer,Manufacturing,Affluent Customer,N,No,12,2075,NSW,11
+Pace,Clemonts,Male,25-34,Above 90,Cat_2,Media Manager IV,Retail,High Net Worth,N,No,10,3122,VIC,7
+Muffin,Grigolon,Male,35-44,Below 10,Cat_1,Senior Editor,Telecommunications,Mass Customer,N,No,12,2232,NSW,10
+Allsun,Biner,Female,25-34,61-70,Cat_1,Nurse Practicioner,Financial Services,Mass Customer,N,Yes,10,2641,NSW,2
+Kenneth,Elleyne,Male,Above 64,11-20,Cat_2,Technical Writer,Financial Services,Mass Customer,N,No,13,3145,VIC,11
+Clotilda,Southers,Female,18-24,61-70,Cat_1,Computer Systems Analyst II,Financial Services,Mass Customer,N,Yes,15,2323,NSW,4
+Augustus,Bourley,Male,35-44,51-60,Cat_2,Social Worker,Health,Affluent Customer,N,No,18,4152,QLD,10
+Daisi,Tinwell,Female,45-54,81-90,Cat_1,Business Systems Development Analyst,Financial Services,Mass Customer,N,No,11,2777,NSW,8
+Gerik,Woodroof,Male,55-64,11-20,Cat_2,Paralegal,Financial Services,High Net Worth,N,Yes,9,3175,VIC,7
+Claresta,MacConnulty,Female,Above 64,Below 10,Cat_1,Recruiting Manager,Manufacturing,Mass Customer,N,Yes,20,2026,NSW,9
+Arty,Fontelles,Male,25-34,41-50,Cat_2,Help Desk Technician,IT,High Net Worth,N,No,4,3197,VIC,4
+Giulia,Hazart,Female,35-44,51-60,Cat_2,Help Desk Technician,Manufacturing,Mass Customer,N,No,11,4218,QLD,11
+Whit,Emloch,Male,55-64,21-30,Cat_1,Food Chemist,Health,Mass Customer,N,Yes,6,2220,NSW,9
+Rowan,Summerly,Male,45-54,Below 10,Cat_1,Librarian,Entertainment,Mass Customer,N,No,9,2209,NSW,10
+Ian,Rabat,Male,45-54,51-60,Cat_2,Web Designer I,Financial Services,Affluent Customer,N,No,11,3204,VIC,11
+Reginald,Jermy,Male,55-64,Below 10,Cat_2,Director of Sales,Financial Services,High Net Worth,N,Yes,20,4128,QLD,8
+Link,Gorini,Male,45-54,51-60,Cat_2,Business Systems Development Analyst,IT,High Net Worth,N,No,10,4600,QLD,2
+Harriet,Brattan,Female,35-44,81-90,Cat_1,Human Resources Assistant I,Financial Services,High Net Worth,N,No,2,3579,VIC,1
+Sada,Branton,Female,45-54,31-40,Cat_2,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,No,14,3199,VIC,6
+Jenelle,Mc-Kerley,Female,Above 64,31-40,Cat_2,Data Coordiator,Financial Services,Mass Customer,N,Yes,16,4068,QLD,5
+Gabrila,Toopin,Female,55-64,Below 10,Cat_1,Junior Executive,Manufacturing,Mass Customer,N,No,12,2456,NSW,6
+Almira,Mangion,Female,25-34,Below 10,Cat_1,VP Product Management,Financial Services,Affluent Customer,N,Yes,2,2230,NSW,12
+Arty,Strudwick,Male,55-64,81-90,Cat_1,Data Coordiator,Health,Mass Customer,N,Yes,8,2211,NSW,10
+Alexa,Dillet,Female,Above 64,61-70,Cat_1,Product Engineer,Entertainment,Affluent Customer,N,No,17,2261,NSW,7
+Palmer,Heaven,Male,25-34,81-90,Cat_2,Staff Scientist,Financial Services,Affluent Customer,N,Yes,9,3754,VIC,6
+Porter,Buckenhill,Male,Above 64,41-50,Cat_2,Help Desk Operator,Manufacturing,High Net Worth,N,Yes,9,4124,QLD,7
+Kizzee,Kemston,Female,55-64,11-20,Cat_1,Social Worker,Health,Mass Customer,N,No,13,2767,NSW,8
+Isadora,Ducker,Female,45-54,11-20,Cat_2,Account Executive,Manufacturing,Affluent Customer,N,Yes,8,3153,VIC,5
+Giffie,Offill,Male,25-34,51-60,Cat_2,Structural Engineer,Telecommunications,Affluent Customer,N,No,5,4740,QLD,3
+Fara,Sarath,Female,Above 64,71-80,Cat_1,Quality Control Specialist,Manufacturing,Mass Customer,N,No,22,2168,NSW,7
+Carolann,Raatz,Female,35-44,21-30,Cat_2,Chief Design Engineer,Manufacturing,High Net Worth,N,No,21,3977,VIC,6
+Tamar,Windmill,Female,Above 64,Above 90,Cat_1,Senior Editor,Manufacturing,Affluent Customer,N,No,10,2207,NSW,10
+Kipp,Stockport,Male,35-44,31-40,Cat_1,Data Coordiator,Retail,Mass Customer,N,Yes,6,2022,NSW,11
+Packston,Wackett,Male,Above 64,Below 10,Cat_2,Quality Engineer,Financial Services,Mass Customer,N,No,19,3192,VIC,9
+Hanson,Eastes,Male,25-34,71-80,Cat_2,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,5,3056,VIC,9
+Demetria,Bausor,Female,55-64,71-80,Cat_1,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,9,2097,NSW,12
+Lura,Fawdrie,Female,18-24,61-70,Cat_2,VP Sales,Health,Mass Customer,N,Yes,4,4211,QLD,3
+Nora,Anselm,Female,55-64,81-90,Cat_2,Assistant Media Planner,Entertainment,High Net Worth,N,Yes,15,4342,QLD,5
+Estevan,Eastment,Male,Above 64,51-60,Cat_1,Environmental Specialist,Health,Mass Customer,N,Yes,21,2019,NSW,8
+Aloysius,Glowacz,Male,35-44,71-80,Cat_1,Financial Advisor,Financial Services,Affluent Customer,N,No,18,2232,NSW,10
+Bastien,Ibbeson,Male,45-54,51-60,Cat_1,Software Consultant,IT,Mass Customer,N,No,12,2487,NSW,5
+Otha,Langworthy,Female,55-64,Above 90,Cat_2,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,13,3130,VIC,10
+Gannie,Bargh,Male,Above 64,51-60,Cat_2,Analyst Programmer,Financial Services,Mass Customer,N,Yes,13,3201,VIC,7
+Dwayne,Doel,Male,45-54,71-80,Cat_1,Cost Accountant,Financial Services,Affluent Customer,N,Yes,17,2223,NSW,11
+Leese,Huckleby,Female,45-54,61-70,Cat_2,Help Desk Operator,Manufacturing,High Net Worth,N,Yes,16,3777,VIC,7
+Dodi,Kiggel,Female,35-44,Below 10,Cat_1,Cost Accountant,Financial Services,Mass Customer,N,Yes,13,2114,NSW,11
+Kippar,Brimilcome,Male,Above 64,21-30,Cat_1,Graphic Designer,Health,Mass Customer,N,No,19,2089,NSW,11
+Corinna,Beretta,Female,25-34,21-30,Cat_2,Programmer III,Health,High Net Worth,N,No,12,3023,VIC,7
+Laurie,Odlin,Female,35-44,71-80,Cat_2,Social Worker,Health,High Net Worth,N,No,10,3194,VIC,10
+Mair,Erett,Female,Above 64,11-20,Cat_1,Speech Pathologist,Manufacturing,Affluent Customer,N,No,18,2117,NSW,7
+Tanner,Terlinden,Male,25-34,81-90,Cat_2,Nuclear Power Engineer,Manufacturing,Mass Customer,N,No,14,3106,VIC,11
+Hilliard,Dullard,Male,Above 64,61-70,Cat_1,Civil Engineer,Manufacturing,Mass Customer,N,No,17,2163,NSW,8
+Justinn,Haruard,Female,55-64,41-50,Cat_1,Health Coach IV,Health,High Net Worth,N,No,11,2035,NSW,12
+Wyn,Meach,Male,Above 64,31-40,Cat_1,Chemical Engineer,Manufacturing,Mass Customer,N,No,9,2765,NSW,9
+Art,Shardlow,Male,55-64,51-60,Cat_2,Data Coordiator,Argiculture,Mass Customer,N,Yes,15,4350,QLD,2
+Dennis,Varnham,Male,Above 64,51-60,Cat_2,Assistant Media Planner,Entertainment,Affluent Customer,N,No,17,3350,VIC,3
+Freddi,Litherborough,Female,25-34,41-50,Cat_1,Product Engineer,Financial Services,Mass Customer,N,No,7,2460,NSW,3
+Salomon,Perkins,Male,25-34,71-80,Cat_1,Engineer IV,Financial Services,Affluent Customer,N,Yes,1,2009,NSW,10
+Sherill,,Female,25-34,31-40,Cat_1,Information Systems Manager,Financial Services,Mass Customer,N,No,3,2880,NSW,1
+Queenie,Learie,Female,Above 64,81-90,Cat_1,Account Coordinator,Property,Mass Customer,N,No,12,2073,NSW,11
+Etan,Prinett,Male,45-54,Above 90,Cat_1,Operator,Argiculture,Mass Customer,N,Yes,10,2250,NSW,8
+Donaugh,Benedict,Male,25-34,Below 10,Cat_1,Systems Administrator III,Property,Mass Customer,N,No,12,2233,NSW,9
+Harwell,Kleinstein,Male,25-34,81-90,Cat_2,Sales Representative,Retail,Affluent Customer,N,No,15,3818,VIC,5
+Cheston,Hritzko,Male,Above 64,61-70,Cat_1,Software Engineer III,Manufacturing,Mass Customer,N,Yes,19,2127,NSW,9
+Suzy,Trounson,Female,Above 64,11-20,Cat_2,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,20,4152,QLD,9
+Jobie,Runacres,Female,45-54,Above 90,Cat_1,Developer IV,Health,Mass Customer,N,Yes,18,2528,NSW,7
+Guenna,Filisov,Female,45-54,51-60,Cat_1,Chemical Engineer,Manufacturing,High Net Worth,N,No,13,2154,NSW,9
+Opal,Cleare,Female,45-54,Below 10,Cat_1,Database Administrator II,Property,Affluent Customer,N,Yes,20,2066,NSW,9
+Ottilie,Wanless,Female,Above 64,51-60,Cat_1,Environmental Specialist,Manufacturing,Affluent Customer,N,No,8,2720,NSW,4
+Kipper,Circuit,Male,45-54,21-30,Cat_1,Research Assistant IV,Argiculture,Mass Customer,N,Yes,4,2140,NSW,8
+Marilin,Frome,Female,45-54,51-60,Cat_1,Account Executive,IT,Mass Customer,N,Yes,17,2219,NSW,9
+Arel,Abramovitz,Male,Above 64,71-80,Cat_2,Nurse Practicioner,Health,Mass Customer,N,No,16,4650,QLD,4
+Kit,Easdon,Male,35-44,61-70,Cat_2,Director of Sales,Property,Affluent Customer,N,No,12,3156,VIC,8
+Skipp,Swales,Male,45-54,11-20,Cat_2,Community Outreach Specialist,Entertainment,High Net Worth,N,Yes,22,3029,VIC,7
+Frederich,Glantz,Male,25-34,31-40,Cat_1,Nuclear Power Engineer,Manufacturing,High Net Worth,N,Yes,10,2762,NSW,8
+Rodolph,Denniss,Male,45-54,21-30,Cat_2,Geologist III,Property,Affluent Customer,N,Yes,7,3356,VIC,2
+Craggie,Dering,Male,Above 64,41-50,Cat_1,Actuary,Financial Services,Mass Customer,N,No,7,2125,NSW,10
+Giralda,MacPeake,Female,Above 64,51-60,Cat_1,Librarian,Entertainment,High Net Worth,N,Yes,14,2705,NSW,1
+Rodney,Trethewey,Male,25-34,11-20,Cat_2,Software Consultant,Financial Services,Affluent Customer,N,No,15,3030,VIC,8
+Theresina,,Female,35-44,21-30,Cat_1,General Manager,Argiculture,Mass Customer,N,Yes,14,2650,NSW,2
+Gleda,Howerd,Female,55-64,51-60,Cat_1,Senior Developer,IT,Mass Customer,N,No,6,2440,NSW,2
+Melany,Ladewig,Female,45-54,71-80,Cat_2,Research Associate,Financial Services,Mass Customer,N,Yes,10,4130,QLD,7
+Claudell,Rounsefell,Male,25-34,61-70,Cat_2,VP Sales,Financial Services,Affluent Customer,N,No,8,4217,QLD,5
+Garwin,Nurden,Male,55-64,51-60,Cat_2,Programmer I,Property,High Net Worth,N,Yes,5,3142,VIC,11
+Bunny,Leebetter,Female,55-64,81-90,Cat_2,Quality Engineer,Manufacturing,High Net Worth,N,Yes,8,4301,QLD,4
+Matias,Melloi,Male,45-54,61-70,Cat_1,Legal Assistant,Retail,Affluent Customer,N,No,11,2155,NSW,10
+Sada,Dowyer,Female,18-24,41-50,Cat_1,Human Resources Manager,Financial Services,High Net Worth,N,Yes,3,2090,NSW,10
+Anet,Roseman,Female,25-34,81-90,Cat_2,Programmer Analyst III,Financial Services,Mass Customer,N,No,9,3814,VIC,4
+Katie,Warhurst,Female,25-34,Below 10,Cat_2,Help Desk Operator,Retail,High Net Worth,N,Yes,14,3064,VIC,5
+Celia,Bryden,Female,Above 64,11-20,Cat_1,Chemical Engineer,Manufacturing,High Net Worth,N,No,21,2114,NSW,9
+Stearne,Trolley,Male,35-44,41-50,Cat_1,Automation Specialist IV,Financial Services,High Net Worth,N,No,14,2137,NSW,11
+Tristam,Larose,Male,35-44,61-70,Cat_1,VP Accounting,Financial Services,Mass Customer,N,No,17,2137,NSW,11
+Laurena,,Female,55-64,21-30,Cat_2,VP Sales,Financial Services,High Net Worth,N,No,10,3810,VIC,6
+Heloise,Fairpool,Female,45-54,11-20,Cat_2,Information Systems Manager,Manufacturing,High Net Worth,N,No,17,4680,QLD,3
+Marcellina,Baynton,Female,Above 64,51-60,Cat_2,Software Engineer III,Financial Services,Mass Customer,N,No,16,3141,VIC,10
+Gregorius,Leal,Male,Above 64,Below 10,Cat_1,Sales Representative,Retail,Affluent Customer,N,Yes,21,2033,NSW,12
+Deana,Canton,Female,45-54,61-70,Cat_2,Account Coordinator,Property,Mass Customer,N,Yes,14,4301,QLD,3
+Kori,Sparsholt,Female,Above 64,51-60,Cat_1,Office Assistant II,Property,Mass Customer,N,Yes,19,2171,NSW,9
+Lucky,Klainman,Female,Above 64,21-30,Cat_2,Chief Design Engineer,Retail,Mass Customer,N,No,8,3758,VIC,4
+Erasmus,Olenchenko,Male,55-64,51-60,Cat_1,Software Test Engineer IV,Property,Mass Customer,N,Yes,5,2484,NSW,7
+Carita,Sand,Female,45-54,21-30,Cat_1,Quality Engineer,Retail,Mass Customer,N,No,16,2154,NSW,11
+Lynnett,Tipper,Female,25-34,21-30,Cat_1,Social Worker,Health,High Net Worth,N,Yes,2,3109,VIC,10
+Thorn,Stigers,Male,45-54,41-50,Cat_2,Business Systems Development Analyst,Financial Services,Mass Customer,N,No,19,4115,QLD,8
+Lela,Billing,Female,45-54,31-40,Cat_1,Programmer Analyst III,Manufacturing,Mass Customer,N,Yes,18,2571,NSW,7
+Norah,Mapis,Female,18-24,71-80,Cat_1,Assistant Manager,Argiculture,Mass Customer,N,No,10,2263,NSW,9
+Moina,Rosenbaum,Female,18-24,41-50,Cat_2,Graphic Designer,IT,Mass Customer,N,No,14,3109,VIC,10
+Ceciley,Harg,Female,25-34,41-50,Cat_2,Nurse Practicioner,Retail,Mass Customer,N,Yes,4,4172,QLD,7
+Torry,de la Valette Parisot,Male,55-64,Above 90,Cat_2,VP Marketing,Telecommunications,Mass Customer,N,Yes,18,3168,VIC,9
+Sigismund,Sedger,Male,18-24,Below 10,Cat_1,Accountant II,Manufacturing,Affluent Customer,N,No,7,2155,NSW,10
+Irvine,Headon,Male,Above 64,Above 90,Cat_1,Geologist III,IT,Affluent Customer,N,Yes,20,2322,NSW,5
+Laurie,,Male,35-44,31-40,Cat_1,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,15,2210,NSW,10
+Tomkin,Bernlin,Male,18-24,Below 10,Cat_1,Food Chemist,Health,Affluent Customer,N,Yes,9,2480,NSW,3
+Genni,Fanstone,Female,45-54,21-30,Cat_2,Administrative Assistant II,Entertainment,Mass Customer,N,No,16,3149,VIC,10
+Blondie,,Female,25-34,41-50,Cat_1,Actuary,Financial Services,High Net Worth,N,No,11,2565,NSW,8
+Aloysius,Killingsworth,Male,Above 64,81-90,Cat_1,VP Quality Control,Financial Services,Mass Customer,N,No,12,2145,NSW,9
+Carola,Philler,Female,Above 64,71-80,Cat_1,Dental Hygienist,Health,High Net Worth,N,No,15,2145,NSW,7
+Fitzgerald,Hellikes,Male,35-44,21-30,Cat_2,Media Manager IV,Health,Mass Customer,N,Yes,10,3040,VIC,7
+Ingmar,Okenden,Male,55-64,Above 90,Cat_2,Compensation Analyst,Financial Services,Mass Customer,N,Yes,8,3216,VIC,2
+Tina,Dunstan,Female,Above 64,11-20,Cat_1,Account Representative IV,Retail,Affluent Customer,N,No,13,2171,NSW,7
+Huberto,Mollatt,Male,55-64,81-90,Cat_1,Programmer IV,Manufacturing,Mass Customer,N,Yes,14,2770,NSW,7
+Georgi,,Male,45-54,21-30,Cat_2,Assistant Manager,Manufacturing,High Net Worth,N,No,11,3215,VIC,4
+Adolpho,Bellerby,Male,Above 64,41-50,Cat_2,VP Sales,Financial Services,High Net Worth,N,Yes,13,4305,QLD,4
+Kelsey,Hatt,Female,55-64,61-70,Cat_2,Senior Sales Associate,Financial Services,High Net Worth,N,No,8,3930,VIC,6
+Lucien,,Male,55-64,81-90,Cat_2,Cost Accountant,Financial Services,High Net Worth,N,Yes,19,4305,QLD,3
+Ariel,McCloid,Male,25-34,Below 10,Cat_2,Human Resources Manager,Financial Services,High Net Worth,N,Yes,6,3630,VIC,1
+Bevvy,Openshaw,Female,45-54,61-70,Cat_1,Staff Scientist,Manufacturing,Affluent Customer,N,Yes,10,2318,NSW,3
+Alexina,Mabley,Female,45-54,71-80,Cat_1,Web Designer IV,Manufacturing,Mass Customer,N,Yes,10,2573,NSW,9
+Dawn,Pyffe,Female,55-64,51-60,Cat_2,Media Manager III,Retail,Mass Customer,N,No,11,3155,VIC,8
+Claudette,Renackowna,Female,25-34,51-60,Cat_1,Administrative Officer,Manufacturing,Mass Customer,N,No,2,2148,NSW,8
+Elianora,Poolton,Female,Above 64,11-20,Cat_2,Programmer II,Health,Mass Customer,N,Yes,21,3134,VIC,9
+Park,,Male,45-54,31-40,Cat_2,Nurse Practicioner,IT,Affluent Customer,N,No,14,4350,QLD,7
+Anthony,Lindstrom,Male,25-34,81-90,Cat_1,Geologist IV,Financial Services,Affluent Customer,N,Yes,10,2205,NSW,10
+Liane,Poizer,Female,Above 64,51-60,Cat_1,Analyst Programmer,Property,High Net Worth,N,No,13,2076,NSW,11
+Romonda,Hallt,Female,55-64,61-70,Cat_1,Operator,Manufacturing,Affluent Customer,N,No,15,2480,NSW,4
+Sula,Thomann,Female,25-34,51-60,Cat_1,Assistant Manager,Retail,Mass Customer,N,No,6,2160,NSW,9
+Renell,Earley,Female,Above 64,Below 10,Cat_2,Compensation Analyst,Financial Services,Mass Customer,N,Yes,11,4171,QLD,5
+Cliff,Philipsson,Male,55-64,81-90,Cat_2,Structural Analysis Engineer,Argiculture,Mass Customer,N,No,16,3149,VIC,10
+Clevey,Aisthorpe,Male,45-54,21-30,Cat_1,Software Consultant,Financial Services,Mass Customer,N,Yes,8,2009,NSW,9
+Cariotta,,Female,45-54,Below 10,Cat_1,Assistant Media Planner,Entertainment,Affluent Customer,N,Yes,17,2527,NSW,7
+George,Jose,Male,55-64,61-70,Cat_2,Payment Adjustment Coordinator,Retail,High Net Worth,N,Yes,20,4680,QLD,4
+Kissiah,Foat,Female,45-54,21-30,Cat_1,Graphic Designer,Financial Services,Mass Customer,N,Yes,19,2281,NSW,9
+Milty,Brauninger,Male,Above 64,11-20,Cat_1,Payment Adjustment Coordinator,Manufacturing,High Net Worth,N,No,11,2640,NSW,7
+Killian,Nettles,Male,35-44,41-50,Cat_2,Marketing Assistant,Retail,Affluent Customer,N,No,4,3803,VIC,7
+Fredia,Favelle,Female,45-54,Above 90,Cat_2,Teacher,Financial Services,Mass Customer,N,Yes,19,4014,QLD,8
+Katleen,Arnoult,Female,45-54,Below 10,Cat_1,VP Product Management,Manufacturing,Mass Customer,N,Yes,13,2066,NSW,9
+Gaultiero,Fibbens,Male,35-44,41-50,Cat_1,Help Desk Technician,Manufacturing,Affluent Customer,N,No,9,2035,NSW,11
+Inglebert,Aspinal,Male,45-54,Below 10,Cat_1,Financial Analyst,Financial Services,Mass Customer,N,No,11,2176,NSW,8
+Jammal,Devenny,Male,18-24,51-60,Cat_2,Marketing Manager,Retail,High Net Worth,N,No,12,3152,VIC,9
+Adriane,Richardson,Female,45-54,81-90,Cat_2,Data Coordiator,Manufacturing,High Net Worth,N,No,9,3070,VIC,8
+Jodi,Lermit,Female,Above 64,Above 90,Cat_2,Social Worker,Health,Mass Customer,N,Yes,10,4021,QLD,2
+Emelia,Ackwood,Female,25-34,71-80,Cat_2,Senior Cost Accountant,Financial Services,Mass Customer,N,Yes,10,4183,QLD,9
+Andee,Huke,Female,45-54,Above 90,Cat_2,Chemical Engineer,Manufacturing,Mass Customer,N,No,9,3858,VIC,2
+Isa,Fominov,Male,18-24,71-80,Cat_1,Physical Therapy Assistant,Financial Services,Mass Customer,N,Yes,5,2010,NSW,9
+Zabrina,Margram,Female,55-64,81-90,Cat_2,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,11,4053,QLD,8
+Maddalena,Angood,Female,18-24,71-80,Cat_1,Chemical Engineer,Manufacturing,Affluent Customer,N,No,12,2320,NSW,4
+Sofie,Worsfold,Female,Above 64,81-90,Cat_2,Environmental Tech,Retail,Mass Customer,N,Yes,9,4125,QLD,6
+Elmira,Vasilyev,Female,Above 64,31-40,Cat_1,Senior Quality Engineer,Manufacturing,High Net Worth,N,No,12,2007,NSW,9
+Worthington,Cohane,Male,25-34,51-60,Cat_1,Chief Design Engineer,Entertainment,High Net Worth,N,No,2,2000,NSW,12
+Bailey,Bereford,Male,Above 64,41-50,Cat_1,Senior Sales Associate,Argiculture,Affluent Customer,N,Yes,11,2444,NSW,6
+Perry,Whitehurst,Male,35-44,71-80,Cat_2,Structural Engineer,Manufacturing,High Net Worth,N,Yes,8,3155,VIC,7
+Antony,Tuma,Male,Above 64,11-20,Cat_2,Environmental Tech,Telecommunications,High Net Worth,N,Yes,13,3078,VIC,10
+Corene,Hallgate,Female,55-64,21-30,Cat_2,Cost Accountant,Financial Services,Mass Customer,N,Yes,14,3103,VIC,12
+Nico,Chadwick,Male,Above 64,Above 90,Cat_2,Research Assistant IV,Financial Services,Affluent Customer,N,No,13,3190,VIC,8
+Joline,Skipperbottom,Female,45-54,51-60,Cat_1,Desktop Support Technician,Financial Services,High Net Worth,N,No,9,2161,NSW,9
+Ivy,Farr,Female,45-54,51-60,Cat_1,Office Assistant IV,IT,High Net Worth,N,No,19,2120,NSW,11
+Dallas,Lavalde,Female,18-24,11-20,Cat_1,Product Engineer,Manufacturing,Mass Customer,N,No,12,2323,NSW,4
+Amabel,,Female,35-44,71-80,Cat_1,Chief Design Engineer,Financial Services,Mass Customer,N,Yes,9,2144,NSW,6
+Hilario,McCulloch,Male,35-44,61-70,Cat_2,Physical Therapy Assistant,Retail,Mass Customer,N,No,8,3051,VIC,8
+Jim,Haddrell,Male,Above 64,51-60,Cat_1,Associate Professor,Financial Services,Mass Customer,N,No,9,2358,NSW,3
+Jacobo,Mucklow,Male,Above 64,61-70,Cat_2,Computer Systems Analyst I,Financial Services,High Net Worth,N,Yes,22,3122,VIC,8
+Gretel,Paschke,Female,Above 64,Below 10,Cat_2,Editor,Financial Services,Mass Customer,N,Yes,17,4074,QLD,7
+Jethro,Mertel,Male,35-44,11-20,Cat_1,Software Consultant,Argiculture,Mass Customer,N,Yes,15,2262,NSW,6
+Dwain,Hatch,Male,25-34,61-70,Cat_2,Marketing Assistant,Health,Affluent Customer,N,No,15,3028,VIC,8
+Lucretia,D'Agostini,Female,35-44,41-50,Cat_2,Database Administrator III,Manufacturing,High Net Worth,N,No,15,3185,VIC,7
+Claude,Bowstead,Female,25-34,31-40,Cat_1,Accounting Assistant III,Manufacturing,Mass Customer,N,No,7,2217,NSW,12
+Donn,MacGregor,Male,55-64,71-80,Cat_1,Civil Engineer,Manufacturing,High Net Worth,N,No,5,2046,NSW,10
+Laurel,Devennie,Female,45-54,71-80,Cat_2,VP Product Management,Manufacturing,Affluent Customer,N,No,13,4352,QLD,5
+Elvira,Darthe,Female,45-54,Below 10,Cat_1,Accounting Assistant I,Financial Services,Affluent Customer,N,No,16,2168,NSW,9
+Angie,Tansley,Male,Above 64,61-70,Cat_1,VP Sales,Manufacturing,Mass Customer,N,No,8,2444,NSW,7
+Terrence,Dalligan,Male,25-34,51-60,Cat_1,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,2,3200,VIC,6
+Katy,Crooke,Female,45-54,Below 10,Cat_1,Food Chemist,Health,Mass Customer,N,No,13,2111,NSW,12
+Sammy,Borsi,Female,45-54,Above 90,Cat_1,Accountant III,Financial Services,Mass Customer,N,No,5,2289,NSW,7
+Morganica,Ainsbury,Female,45-54,31-40,Cat_1,Senior Editor,Entertainment,High Net Worth,N,Yes,9,2151,NSW,10
+Nils,Champion,Male,35-44,61-70,Cat_1,Programmer III,Retail,Affluent Customer,N,No,13,2750,NSW,9
+Beverlee,Querree,Female,25-34,41-50,Cat_1,Marketing Manager,Financial Services,High Net Worth,N,Yes,12,2075,NSW,12
+Cami,Eitter,Female,35-44,31-40,Cat_2,Professor,Manufacturing,High Net Worth,N,Yes,11,3081,VIC,9
+Reiko,Degenhardt,Female,45-54,81-90,Cat_2,Financial Analyst,Financial Services,High Net Worth,N,Yes,5,4280,QLD,6
+Cord,Dunsmore,Male,18-24,11-20,Cat_2,Internal Auditor,Manufacturing,Mass Customer,N,Yes,13,4301,QLD,3
+Gabey,Kennicott,Female,55-64,51-60,Cat_1,Developer I,Financial Services,Affluent Customer,N,No,17,2322,NSW,6
+Jacqui,Devey,Female,25-34,71-80,Cat_1,Analyst Programmer,Financial Services,High Net Worth,N,Yes,13,2261,NSW,8
+Byrom,Ramas,Male,25-34,21-30,Cat_1,Help Desk Technician,Manufacturing,High Net Worth,N,No,12,2528,NSW,7
+Worthington,Ahmed,Male,45-54,71-80,Cat_2,Senior Cost Accountant,Financial Services,High Net Worth,N,No,13,3335,VIC,3
+Chico,Dye,Male,25-34,41-50,Cat_1,Speech Pathologist,Manufacturing,High Net Worth,N,No,13,2526,NSW,9
+Davidde,Cockroft,Male,Above 64,61-70,Cat_1,Geological Engineer,Manufacturing,High Net Worth,N,No,8,2158,NSW,12
+Charlie,Dmych,Male,Above 64,51-60,Cat_1,Account Coordinator,Manufacturing,High Net Worth,N,No,13,2263,NSW,6
+Donn,Chaney,Male,Above 64,11-20,Cat_2,Research Assistant II,Manufacturing,Mass Customer,N,No,13,4701,QLD,3
+Kamila,Parsonage,Female,Above 64,71-80,Cat_2,Account Coordinator,Property,Mass Customer,N,No,5,4131,QLD,8
+Barth,Sapshed,Male,25-34,Below 10,Cat_2,Executive Secretary,Financial Services,Mass Customer,N,Yes,13,4520,QLD,10
+Padriac,Collacombe,Male,55-64,61-70,Cat_1,Software Consultant,Health,Affluent Customer,N,No,13,2090,NSW,10
+Olive,Mozzi,Female,Above 64,81-90,Cat_1,Account Representative IV,Retail,Affluent Customer,N,Yes,20,2567,NSW,9
+Benedict,Rosas,Male,Above 64,71-80,Cat_1,Actuary,Financial Services,High Net Worth,N,Yes,15,2142,NSW,6
+Virginia,De Antoni,Female,55-64,11-20,Cat_1,Executive Secretary,Telecommunications,High Net Worth,N,Yes,12,2030,NSW,10
+Nicolas,O'Donnell,Male,35-44,31-40,Cat_2,Internal Auditor,Manufacturing,Mass Customer,N,Yes,14,3177,VIC,7
+Oswald,MacCarlich,Male,25-34,81-90,Cat_2,Assistant Media Planner,Entertainment,Mass Customer,N,No,14,4717,QLD,1
+Ailyn,Howgate,Female,18-24,61-70,Cat_2,Electrical Engineer,Manufacturing,Mass Customer,N,Yes,2,4213,QLD,7
+Karol,Salthouse,Female,45-54,51-60,Cat_1,Research Assistant III,Financial Services,Mass Customer,N,Yes,18,2570,NSW,8
+Esdras,Birchett,Male,Above 64,81-90,Cat_1,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,21,2258,NSW,9
+Wilfrid,Gertray,Male,Above 64,Below 10,Cat_1,Accounting Assistant I,Financial Services,Mass Customer,N,No,16,2766,NSW,8
+Charmain,Styles,Female,55-64,41-50,Cat_2,Programmer Analyst I,Property,High Net Worth,N,Yes,18,3029,VIC,7
+Bobby,Summersby,Male,Above 64,81-90,Cat_2,Sales Associate,Financial Services,Affluent Customer,N,No,7,3350,VIC,2
+Shepherd,Dutchburn,Male,45-54,31-40,Cat_1,Senior Sales Associate,Financial Services,High Net Worth,N,Yes,9,2160,NSW,9
+Berenice,Kaesmakers,Female,25-34,61-70,Cat_1,Sales Representative,Retail,Mass Customer,N,No,11,2145,NSW,9
+Jesse,Crosio,Male,25-34,71-80,Cat_2,Data Coordiator,Manufacturing,Mass Customer,N,Yes,13,3133,VIC,8
+Cordi,Thornton,Female,45-54,41-50,Cat_1,Structural Engineer,Telecommunications,Mass Customer,N,No,11,2028,NSW,10
+Debbie,Tillman,Female,25-34,Below 10,Cat_2,Account Coordinator,Manufacturing,High Net Worth,N,Yes,13,4551,QLD,8
+Judie,Pirkis,Female,25-34,Below 10,Cat_1,Recruiter,Retail,Affluent Customer,N,Yes,4,2111,NSW,11
+Flin,Yoskowitz,Male,25-34,Below 10,Cat_1,Registered Nurse,Health,Mass Customer,N,Yes,11,2574,NSW,7
+Noel,Sturch,Female,Above 64,21-30,Cat_2,Environmental Specialist,Health,Mass Customer,N,No,10,3585,VIC,1
+Letizia,Poore,Female,Above 64,21-30,Cat_2,Web Developer II,Manufacturing,Affluent Customer,N,No,15,3677,VIC,3
+Raynard,,Male,25-34,31-40,Cat_2,Statistician III,Health,Affluent Customer,N,No,14,4132,QLD,6
+Kiley,Grunder,Male,25-34,Above 90,Cat_1,Cost Accountant,Financial Services,Affluent Customer,N,Yes,1,4006,QLD,8
+Ethelred,Sissel,Male,45-54,81-90,Cat_1,Programmer Analyst IV,Health,High Net Worth,N,No,18,2539,NSW,8
+Dena,Pabst,Female,35-44,31-40,Cat_2,Account Executive,Manufacturing,High Net Worth,N,Yes,17,3037,VIC,7
+Wyndham,Woolford,Male,35-44,Below 10,Cat_2,Engineer IV,Manufacturing,Mass Customer,N,No,10,3977,VIC,6
+Rochette,Haddacks,Female,25-34,41-50,Cat_2,Tax Accountant,Retail,Affluent Customer,N,Yes,13,3020,VIC,8
+Jamal,Dudgeon,Male,55-64,81-90,Cat_2,Mechanical Systems Engineer,Financial Services,Mass Customer,N,No,7,3029,VIC,5
+Levin,Coxen,Male,Above 64,11-20,Cat_1,Accountant I,Property,Mass Customer,N,No,20,2753,NSW,8
+Marinna,Kauschke,Female,45-54,21-30,Cat_2,Sales Associate,Financial Services,Affluent Customer,N,Yes,8,3174,VIC,3
+Kyle,Michie,Female,55-64,Below 10,Cat_2,Nurse Practicioner,Manufacturing,Mass Customer,N,Yes,10,3032,VIC,8
+Lanie,Cobbold,Male,35-44,51-60,Cat_1,Senior Sales Associate,Manufacturing,Mass Customer,N,Yes,9,2323,NSW,5
+Gilbert,O'Fallone,Male,25-34,21-30,Cat_1,Assistant Media Planner,Entertainment,High Net Worth,N,No,1,2126,NSW,11
+Esther,McOnie,Female,Above 64,51-60,Cat_1,Legal Assistant,Manufacturing,Mass Customer,N,No,14,2096,NSW,12
+Chaim,Kingdon,Male,25-34,61-70,Cat_1,Compensation Analyst,Financial Services,Affluent Customer,N,Yes,15,2097,NSW,9
+Anson,Dearnaly,Male,25-34,61-70,Cat_1,Data Coordiator,Health,Affluent Customer,N,Yes,11,2103,NSW,11
+Caitrin,Critten,Female,45-54,41-50,Cat_2,Director of Sales,Manufacturing,Mass Customer,N,Yes,10,4113,QLD,7
+Garreth,Minett,Male,55-64,Above 90,Cat_2,Physical Therapy Assistant,Financial Services,Affluent Customer,N,Yes,10,3163,VIC,7
+Rozamond,Sommer,Female,55-64,21-30,Cat_2,Operator,IT,Affluent Customer,N,Yes,12,3129,VIC,10
+Annabell,Downer,Female,Above 64,31-40,Cat_1,Budget/Accounting Analyst II,Retail,Affluent Customer,N,No,20,2763,NSW,9
+Maximilian,Geffen,Male,Above 64,Above 90,Cat_1,Automation Specialist III,Manufacturing,Mass Customer,N,Yes,20,2750,NSW,8
+Ajay,Worham,Female,35-44,71-80,Cat_1,Computer Systems Analyst I,Manufacturing,Mass Customer,N,Yes,12,2800,NSW,6
+Jamison,Cashin,Male,45-54,61-70,Cat_1,VP Product Management,Health,Mass Customer,N,Yes,5,2477,NSW,8
+Dorian,Emery,Female,18-24,Above 90,Cat_1,Professor,Manufacturing,Mass Customer,N,Yes,9,2168,NSW,8
+Nicol,Swinford,Male,45-54,61-70,Cat_2,VP Marketing,Property,High Net Worth,N,No,16,4157,QLD,7
+Agna,Cowpe,Female,45-54,81-90,Cat_2,Account Coordinator,Property,Mass Customer,N,Yes,7,4114,QLD,3
+Nev,Prosh,Male,Above 64,21-30,Cat_1,Environmental Tech,Health,Affluent Customer,N,Yes,17,2148,NSW,8
+Lucius,Hatchell,Male,Above 64,31-40,Cat_2,Media Manager II,Retail,Mass Customer,N,Yes,14,3782,VIC,8
+Francisca,Pottage,Female,Above 64,61-70,Cat_1,Software Engineer II,IT,Mass Customer,N,No,8,2177,NSW,9
+Farlie,Brookz,Male,55-64,61-70,Cat_1,Administrative Assistant I,Health,Mass Customer,N,Yes,6,2070,NSW,12
+Mariette,,Female,Above 64,41-50,Cat_1,Programmer II,Property,Affluent Customer,N,Yes,17,2049,NSW,11
+Beverlee,Ungerechts,Female,45-54,41-50,Cat_2,Civil Engineer,Manufacturing,Mass Customer,N,No,8,4020,QLD,7
+Nanni,Girodias,Female,55-64,61-70,Cat_1,Sales Representative,Retail,High Net Worth,N,No,16,2161,NSW,9
+Delcina,Hursey,Female,45-54,21-30,Cat_2,Cost Accountant,Financial Services,Mass Customer,N,Yes,7,4132,QLD,4
+Lek,Pimblett,Male,Above 64,81-90,Cat_1,Product Engineer,Financial Services,Mass Customer,N,Yes,6,2460,NSW,2
+Ewell,Paulusch,Male,25-34,31-40,Cat_2,Engineer I,Manufacturing,Mass Customer,N,Yes,8,4032,QLD,7
+Madison,Lars,Male,55-64,11-20,Cat_2,Health Coach III,Health,Mass Customer,N,No,19,4500,QLD,9
+Ardis,Taree,Female,55-64,Above 90,Cat_2,Chemical Engineer,Manufacturing,Affluent Customer,N,Yes,5,4128,QLD,9
+Wheeler,Godsil,Male,25-34,51-60,Cat_1,Geologist IV,Manufacturing,Affluent Customer,N,Yes,6,2147,NSW,9
+Terrel,Keynd,Male,55-64,21-30,Cat_2,Junior Executive,Manufacturing,Mass Customer,N,No,9,4221,QLD,7
+Augie,Swallwell,Male,Above 64,41-50,Cat_1,Account Coordinator,Property,Affluent Customer,N,Yes,13,2400,NSW,2
+Dillon,Bannister,Male,Above 64,Below 10,Cat_1,Tax Accountant,Manufacturing,Mass Customer,N,No,11,2062,NSW,9
+Lissa,Gawn,Female,55-64,81-90,Cat_2,Legal Assistant,Health,Mass Customer,N,Yes,17,4503,QLD,5
+Leisha,McConway,Female,45-54,Below 10,Cat_2,Payment Adjustment Coordinator,Financial Services,Mass Customer,N,Yes,13,3175,VIC,8
+Kearney,Cuddehy,Male,25-34,81-90,Cat_2,Marketing Assistant,Retail,Mass Customer,N,No,12,4207,QLD,6
+Shellysheldon,Bichard,Male,Above 64,Above 90,Cat_2,Desktop Support Technician,Financial Services,Mass Customer,N,Yes,16,4503,QLD,5
+Reinhard,Oscroft,Male,Above 64,21-30,Cat_2,Pharmacist,Health,High Net Worth,N,No,18,3690,VIC,1
+Menard,Venmore,Male,35-44,Above 90,Cat_1,Assistant Professor,Retail,High Net Worth,N,No,8,2197,NSW,10
+Andree,Breeds,Female,Above 64,31-40,Cat_2,Senior Editor,Financial Services,Affluent Customer,N,Yes,11,3152,VIC,6
+Kata,Harrop,Female,Above 64,61-70,Cat_1,Sales Representative,Retail,Affluent Customer,N,Yes,13,2196,NSW,10
+Pierrette,Gummie,Female,55-64,11-20,Cat_2,Statistician II,Retail,Affluent Customer,N,No,14,3143,VIC,8
+Nady,Withinshaw,Female,55-64,Above 90,Cat_2,Database Administrator III,Financial Services,High Net Worth,N,No,8,4000,QLD,7
+Demott,Mullaly,Male,35-44,41-50,Cat_1,Help Desk Operator,Property,Mass Customer,N,No,13,2525,NSW,8
+Wendye,Kleinplatz,Female,25-34,41-50,Cat_2,Executive Secretary,Manufacturing,Affluent Customer,N,No,14,4132,QLD,3
+Irvin,Bevans,Male,55-64,81-90,Cat_1,Payment Adjustment Coordinator,Manufacturing,Mass Customer,N,No,12,2046,NSW,11
+Madella,Marquiss,Female,45-54,51-60,Cat_2,VP Marketing,Financial Services,Affluent Customer,N,No,18,3175,VIC,8
+Austine,Speedy,Female,Above 64,31-40,Cat_1,Software Engineer II,Argiculture,High Net Worth,N,Yes,14,2558,NSW,8
+Wolf,Craft,Male,25-34,Above 90,Cat_1,Database Administrator III,Retail,Affluent Customer,N,Yes,5,2148,NSW,9
+Aldin,Newsome,Male,35-44,21-30,Cat_1,Financial Analyst,Financial Services,Mass Customer,N,No,17,2127,NSW,9
+Sindee,Jasik,Female,Above 64,11-20,Cat_2,Social Worker,Health,Mass Customer,N,Yes,15,4030,QLD,9
+Truman,Arlett,Male,55-64,51-60,Cat_1,Technical Writer,Manufacturing,High Net Worth,N,Yes,16,2477,NSW,5
+Gordon,Rewan,Male,35-44,41-50,Cat_1,Chief Design Engineer,Manufacturing,Mass Customer,N,No,5,2750,NSW,8
+Leticia,Hovenden,Female,25-34,Above 90,Cat_2,Mechanical Systems Engineer,Retail,Mass Customer,N,Yes,1,3178,VIC,9
+Caritta,Compston,Female,55-64,81-90,Cat_2,Geological Engineer,Manufacturing,Mass Customer,N,Yes,17,3976,VIC,5
+Annabelle,Hanwell,Female,Above 64,11-20,Cat_2,Professor,Manufacturing,High Net Worth,N,Yes,15,3083,VIC,12
+Darryl,Hovee,Female,Above 64,Below 10,Cat_1,Professor,Financial Services,Mass Customer,N,Yes,19,2047,NSW,12
+Orly,Nesbitt,Female,35-44,Below 10,Cat_2,Analyst Programmer,Manufacturing,High Net Worth,N,Yes,14,3163,VIC,6
+Margette,Gibard,Female,Above 64,31-40,Cat_1,Chemical Engineer,Manufacturing,Affluent Customer,N,Yes,9,2011,NSW,7
+Nicol,Bertot,Female,45-54,21-30,Cat_2,Financial Advisor,Financial Services,Affluent Customer,N,Yes,18,3060,VIC,5
+Nobe,Trowsdale,Male,45-54,11-20,Cat_2,Community Outreach Specialist,Financial Services,Mass Customer,N,No,16,3816,VIC,3
+Stephen,Tittershill,Male,25-34,71-80,Cat_2,Nurse Practicioner,Financial Services,High Net Worth,N,No,6,3150,VIC,11
+Giselbert,Pickring,Male,55-64,Above 90,Cat_1,Tax Accountant,Manufacturing,Affluent Customer,N,Yes,20,2766,NSW,8
+Shane,Diss,Female,35-44,41-50,Cat_2,Cost Accountant,Financial Services,High Net Worth,N,Yes,16,3198,VIC,8
+Lisette,Davers,Female,Above 64,51-60,Cat_1,Developer III,Health,High Net Worth,N,No,17,2130,NSW,11
+Kippar,Whyatt,Male,55-64,11-20,Cat_1,Account Coordinator,Property,Mass Customer,N,No,10,2259,NSW,7
+Xenia,Maleck,Female,55-64,41-50,Cat_2,VP Product Management,Telecommunications,Mass Customer,N,No,12,3029,VIC,7
+Essie,Withur,Female,Above 64,41-50,Cat_2,Director of Sales,Financial Services,High Net Worth,N,No,19,3444,VIC,7
+Lillis,Eshmade,Female,45-54,41-50,Cat_2,Structural Analysis Engineer,Financial Services,Mass Customer,N,Yes,22,4304,QLD,2
+Ted,Izacenko,Male,55-64,Below 10,Cat_2,Librarian,Entertainment,High Net Worth,N,No,9,3130,VIC,10
+Nixie,Shoesmith,Female,Above 64,41-50,Cat_2,Junior Executive,Retail,Affluent Customer,N,No,12,4516,QLD,6
+Briana,Trill,Female,Above 64,Below 10,Cat_1,Health Coach III,Health,High Net Worth,N,No,11,2137,NSW,11
+Cobbie,Bruyett,Male,Above 64,11-20,Cat_1,Associate Professor,Manufacturing,Mass Customer,N,Yes,20,2500,NSW,8
+Wrennie,Dwelly,Female,Above 64,21-30,Cat_2,Operator,Manufacturing,Mass Customer,N,No,18,3020,VIC,9
+Sibylla,Kibble,Female,55-64,71-80,Cat_1,Pharmacist,Health,High Net Worth,N,No,12,2122,NSW,9
+Kariotta,Naper,Female,Above 64,Below 10,Cat_1,VP Sales,Health,Mass Customer,N,No,21,2756,NSW,10
+Wylie,Huntingdon,Male,55-64,Above 90,Cat_1,VP Quality Control,Financial Services,Mass Customer,N,No,15,2763,NSW,8
+Lizbeth,Garvan,Female,25-34,31-40,Cat_1,Structural Analysis Engineer,Health,Mass Customer,N,No,4,2141,NSW,9
+Averil,Ackery,Male,45-54,Above 90,Cat_1,Sales Representative,Retail,Mass Customer,N,Yes,7,2093,NSW,12
+Myrtie,Ostrich,Female,25-34,61-70,Cat_1,VP Quality Control,Property,Affluent Customer,N,Yes,9,2251,NSW,7
+Ross,Vidgen,Male,Above 64,11-20,Cat_2,VP Sales,Retail,Affluent Customer,N,No,12,4032,QLD,9
+Sibby,Skinner,Female,35-44,21-30,Cat_2,Accountant IV,Manufacturing,Mass Customer,N,Yes,12,4178,QLD,7
+Selle,Casper,Female,45-54,Above 90,Cat_1,Social Worker,Health,Mass Customer,N,Yes,10,2880,NSW,1
+Andrew,Froment,Male,45-54,51-60,Cat_2,Office Assistant IV,Retail,High Net Worth,N,No,7,3860,VIC,2
+Maurizia,Ritmeyer,Female,35-44,Above 90,Cat_1,Teacher,Entertainment,Mass Customer,N,Yes,3,2142,NSW,6
+Keenan,Moriarty,Male,25-34,61-70,Cat_2,Actuary,Financial Services,Mass Customer,N,Yes,2,4075,QLD,8
+Davide,Senten,Male,Above 64,21-30,Cat_1,Accounting Assistant II,Manufacturing,Mass Customer,N,No,11,2171,NSW,9
+Renie,Fiveash,Female,25-34,Above 90,Cat_2,Occupational Therapist,Health,High Net Worth,N,No,16,4508,QLD,4
+Willard,Booton,Male,Above 64,61-70,Cat_1,Social Worker,Health,High Net Worth,N,Yes,7,2121,NSW,9
+Debby,Balmadier,Female,25-34,51-60,Cat_2,Administrative Assistant II,Financial Services,Affluent Customer,N,Yes,5,3216,VIC,8
+Harvey,Dwelley,Male,45-54,61-70,Cat_1,Help Desk Technician,Financial Services,Affluent Customer,N,No,18,2077,NSW,9
+Patrice,Pariss,Male,Above 64,Above 90,Cat_2,VP Accounting,Financial Services,Mass Customer,N,No,9,4078,QLD,5
+Arman,Yakubov,Male,45-54,61-70,Cat_1,VP Quality Control,Property,High Net Worth,N,Yes,17,2323,NSW,4
+Gardiner,Gypps,Male,25-34,Above 90,Cat_1,VP Product Management,Retail,Mass Customer,N,Yes,13,2166,NSW,9
+Cathleen,Le Teve,Female,Above 64,71-80,Cat_2,Recruiting Manager,Manufacturing,High Net Worth,N,No,18,4211,QLD,3
+Thaddus,Joder,Male,Above 64,31-40,Cat_1,Chemical Engineer,Manufacturing,Mass Customer,N,No,7,2290,NSW,8
+Josepha,Clamp,Female,55-64,11-20,Cat_1,Marketing Manager,Retail,High Net Worth,N,No,12,2069,NSW,12
+Jillane,Simion,Female,45-54,Below 10,Cat_2,VP Marketing,Manufacturing,High Net Worth,N,No,7,4209,QLD,3
+Lynnell,Shoesmith,Female,35-44,41-50,Cat_1,Occupational Therapist,Health,High Net Worth,N,Yes,7,2560,NSW,8
+Mandie,MacAdie,Female,45-54,31-40,Cat_1,Chief Design Engineer,Telecommunications,High Net Worth,N,No,13,2110,NSW,11
+Ferdinand,Billie,Male,55-64,Above 90,Cat_1,Chemical Engineer,Manufacturing,Mass Customer,N,No,6,2759,NSW,8
+Suzy,Bussens,Female,45-54,41-50,Cat_2,Cost Accountant,Financial Services,Mass Customer,N,No,13,4102,QLD,9
+Emeline,Vezey,Female,Above 64,31-40,Cat_2,Dental Hygienist,Health,Affluent Customer,N,Yes,19,3759,VIC,7
+Cissiee,Baylis,Female,Above 64,Above 90,Cat_1,Cost Accountant,Financial Services,High Net Worth,N,No,16,2230,NSW,11
+Roldan,Raybould,Male,45-54,21-30,Cat_2,Actuary,Financial Services,Mass Customer,N,No,11,3158,VIC,8
+Barth,Weare,Male,Above 64,11-20,Cat_1,Clinical Specialist,Health,Mass Customer,N,Yes,8,2541,NSW,5
+Alta,Pithcock,Female,18-24,61-70,Cat_1,GIS Technical Architect,Financial Services,Mass Customer,N,No,2,2141,NSW,7
+Marc,Keunemann,Male,45-54,51-60,Cat_1,Dental Hygienist,Health,Affluent Customer,N,Yes,14,2747,NSW,8
+Bertine,Smalles,Female,35-44,81-90,Cat_2,VP Quality Control,Financial Services,Mass Customer,N,Yes,9,3028,VIC,8
+Wilbert,O'Loughnan,Male,35-44,11-20,Cat_2,Paralegal,Financial Services,Mass Customer,N,Yes,6,4055,QLD,9
+Seymour,Fellibrand,Male,45-54,21-30,Cat_2,Structural Analysis Engineer,Manufacturing,Affluent Customer,N,Yes,18,4650,QLD,2
+Miran,Runchman,Female,45-54,41-50,Cat_2,Nurse,Retail,Mass Customer,N,No,17,4304,QLD,3
+Dorotea,Fenwick,Female,Above 64,71-80,Cat_1,Nurse,Financial Services,High Net Worth,N,No,12,2016,NSW,11
+Jenny,Massy,Female,55-64,81-90,Cat_1,Project Manager,Telecommunications,Mass Customer,N,Yes,10,2470,NSW,2
+Hyman,Petrolli,Male,55-64,Below 10,Cat_2,Senior Sales Associate,Manufacturing,Affluent Customer,N,Yes,4,3782,VIC,7
+Beatrix,McGivena,Female,55-64,21-30,Cat_2,Assistant Manager,Health,Mass Customer,N,Yes,9,4879,QLD,10
+Nalani,Hallad,Female,18-24,11-20,Cat_2,Environmental Specialist,Health,Affluent Customer,N,Yes,9,3184,VIC,9
+Inglebert,Butland,Male,55-64,71-80,Cat_1,Actuary,Financial Services,Mass Customer,N,Yes,7,2114,NSW,9
+Brendis,Pineaux,Male,45-54,11-20,Cat_1,Mechanical Systems Engineer,Manufacturing,Mass Customer,N,No,5,2560,NSW,4
+Jaimie,Lancastle,Male,45-54,71-80,Cat_1,VP Marketing,Financial Services,Mass Customer,N,Yes,5,2750,NSW,8
+Glendon,Malham,Male,55-64,31-40,Cat_2,Web Designer I,Manufacturing,Mass Customer,N,No,17,3030,VIC,6
+Morganica,Bentke,Female,45-54,31-40,Cat_2,Marketing Assistant,IT,Affluent Customer,N,Yes,21,3067,VIC,11
+Calida,Schaben,Female,45-54,51-60,Cat_1,Recruiting Manager,Manufacturing,Mass Customer,N,Yes,10,2199,NSW,9
+Hallsy,Voysey,Male,45-54,81-90,Cat_2,Business Systems Development Analyst,Financial Services,Mass Customer,N,No,16,3437,VIC,9
+Lanny,Currall,Male,25-34,31-40,Cat_1,Developer IV,Health,High Net Worth,N,Yes,9,2209,NSW,10
+Son,Varney,Male,25-34,71-80,Cat_1,Analog Circuit Design manager,Property,Mass Customer,N,Yes,10,2480,NSW,7
+Bartram,Caltun,Male,Above 64,21-30,Cat_1,Internal Auditor,Health,Affluent Customer,N,Yes,12,2121,NSW,11
+Halette,Borsi,Female,55-64,51-60,Cat_1,Research Nurse,Health,Affluent Customer,N,Yes,16,2128,NSW,9
+Killie,Densie,Male,25-34,81-90,Cat_1,Environmental Tech,IT,Mass Customer,N,Yes,11,2042,NSW,10
+Mandi,Adamsson,Female,25-34,31-40,Cat_2,Programmer Analyst I,Manufacturing,Mass Customer,N,Yes,5,4165,QLD,5
+Kylila,Basezzi,Female,Above 64,Above 90,Cat_2,Assistant Manager,Retail,Mass Customer,N,Yes,9,4217,QLD,9
+Yardley,Matten,Male,25-34,31-40,Cat_2,Junior Executive,Financial Services,Mass Customer,N,No,15,4408,QLD,2
+Shepperd,Leonards,Male,35-44,11-20,Cat_1,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,5,2147,NSW,9
+Hamel,Curzey,Male,25-34,11-20,Cat_2,Structural Engineer,Manufacturing,Mass Customer,N,Yes,9,4000,QLD,7
+Fancie,Woofendell,Female,55-64,61-70,Cat_2,Research Nurse,Health,Mass Customer,N,Yes,6,4212,QLD,7
+Zebulen,Emtage,Male,55-64,51-60,Cat_2,Senior Developer,Manufacturing,High Net Worth,N,Yes,17,4352,QLD,7
+Micheil,Fleote,Male,45-54,41-50,Cat_1,Civil Engineer,Manufacturing,High Net Worth,N,No,16,2093,NSW,9
+Cecily,Faircley,Female,Above 64,41-50,Cat_2,Accountant IV,IT,Affluent Customer,N,Yes,19,4301,QLD,1
+Glory,Chilcott,Female,Above 64,41-50,Cat_2,Tax Accountant,Telecommunications,High Net Worth,N,No,9,4165,QLD,5
+Sinclair,Wark,Male,45-54,61-70,Cat_1,Financial Analyst,Financial Services,Mass Customer,N,Yes,11,2134,NSW,9
+Tomaso,Horsley,Male,18-24,Above 90,Cat_2,Junior Executive,Financial Services,Mass Customer,N,Yes,10,3977,VIC,6
+Gilli,Christophers,Female,Above 64,61-70,Cat_2,Database Administrator IV,Property,Affluent Customer,N,Yes,17,4575,QLD,9
+Errick,Burgin,Male,18-24,81-90,Cat_1,Professor,Entertainment,Mass Customer,N,No,11,2650,NSW,2
+Damian,Renard,Male,45-54,41-50,Cat_1,Software Consultant,Retail,Affluent Customer,N,No,8,2155,NSW,10
+Agnola,Batterson,Female,35-44,81-90,Cat_2,Physical Therapy Assistant,Financial Services,Mass Customer,N,No,7,4305,QLD,3
+Riki,Wandtke,Female,55-64,21-30,Cat_2,Librarian,Entertainment,Mass Customer,N,Yes,5,4115,QLD,7
+Mikol,Eck,Male,45-54,Above 90,Cat_2,VP Marketing,Financial Services,Mass Customer,N,Yes,21,4130,QLD,9
+Phyllis,Wibberley,Female,45-54,Below 10,Cat_1,Web Designer IV,Retail,Affluent Customer,N,No,11,2066,NSW,12
+Burt,Vasechkin,Male,Above 64,31-40,Cat_2,Senior Sales Associate,Retail,Mass Customer,N,Yes,20,3338,VIC,2
+Trudie,Phinnessy,Female,55-64,41-50,Cat_2,Cost Accountant,Financial Services,Mass Customer,N,Yes,15,3030,VIC,9
+Frederigo,Cribbott,Male,55-64,31-40,Cat_1,Social Worker,Health,Mass Customer,N,No,16,2140,NSW,8
+Glenda,Eliet,Female,45-54,81-90,Cat_2,Quality Control Specialist,Manufacturing,Mass Customer,N,No,12,3844,VIC,7
+Darb,,Male,45-54,71-80,Cat_2,Food Chemist,Health,Affluent Customer,N,No,10,4034,QLD,5
+Cal,Van den Velde,Male,25-34,21-30,Cat_2,Senior Sales Associate,Financial Services,Affluent Customer,N,Yes,6,3174,VIC,6
+Stephani,Sidsaff,Female,45-54,31-40,Cat_1,Senior Quality Engineer,Financial Services,Mass Customer,N,Yes,6,2036,NSW,11
+Meade,Bampton,Male,35-44,61-70,Cat_1,Health Coach III,Health,High Net Worth,N,No,17,2090,NSW,7
+Flore,Cashen,Female,35-44,71-80,Cat_1,Social Worker,Health,High Net Worth,N,No,17,2640,NSW,4
+Leighton,Firbanks,Male,45-54,51-60,Cat_2,Teacher,Retail,Affluent Customer,N,No,21,4178,QLD,3
+Petr,Westman,Male,35-44,Below 10,Cat_2,Nurse Practicioner,Property,Mass Customer,N,No,7,4556,QLD,7
+Yorgos,Dewhurst,Male,Above 64,Below 10,Cat_2,Software Consultant,Argiculture,Affluent Customer,N,No,16,4701,QLD,1
+Simmonds,Bapty,Male,18-24,51-60,Cat_1,Junior Executive,Financial Services,Affluent Customer,N,No,8,2025,NSW,12
+Hagen,MacCarter,Male,35-44,Above 90,Cat_2,Assistant Media Planner,Entertainment,Affluent Customer,N,Yes,15,3172,VIC,9
+Cazzie,Stanwix,Male,55-64,31-40,Cat_2,Research Assistant IV,Manufacturing,High Net Worth,N,Yes,11,4561,QLD,7
+Geoff,Gwillym,Male,18-24,81-90,Cat_1,Clinical Specialist,Health,Affluent Customer,N,No,8,2323,NSW,4
+Simonette,,Female,25-34,Below 10,Cat_1,VP Product Management,Manufacturing,Affluent Customer,N,Yes,6,2232,NSW,8
+Deirdre,Sturgeon,Female,55-64,11-20,Cat_1,VP Sales,Retail,Mass Customer,N,Yes,9,2232,NSW,10
+Juliann,Siemantel,Female,Above 64,81-90,Cat_2,Librarian,Entertainment,Mass Customer,N,No,22,3046,VIC,8
+Janaye,Eade,Female,35-44,21-30,Cat_1,Chief Design Engineer,Health,Affluent Customer,N,No,4,2420,NSW,3
+Dylan,Stranio,Male,Above 64,41-50,Cat_1,Project Manager,Manufacturing,High Net Worth,N,Yes,9,2170,NSW,8
+Mel,Rochford,Female,25-34,11-20,Cat_2,Assistant Professor,Retail,Mass Customer,N,Yes,4,3013,VIC,9
+Elvin,Trayhorn,Male,25-34,41-50,Cat_1,VP Accounting,Financial Services,High Net Worth,N,No,10,2231,NSW,10
+Sonni,Milligan,Female,35-44,71-80,Cat_2,Budget/Accounting Analyst III,Retail,Mass Customer,N,Yes,14,3170,VIC,9
+Kellina,Haygreen,Female,55-64,31-40,Cat_1,Librarian,Entertainment,Affluent Customer,N,No,18,2046,NSW,10
+Yuma,Dennick,Male,45-54,31-40,Cat_1,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,6,2528,NSW,8
+Ashleigh,,Female,25-34,41-50,Cat_2,Budget/Accounting Analyst III,IT,Mass Customer,N,Yes,6,3204,VIC,12
+Therese,Brotherhood,Female,35-44,21-30,Cat_1,Food Chemist,Health,Mass Customer,N,No,10,2042,NSW,10
+Pansie,Beccero,Female,55-64,31-40,Cat_2,Software Test Engineer I,Financial Services,Affluent Customer,N,Yes,10,4818,QLD,5
+Reinaldos,Simmig,Male,Above 64,51-60,Cat_2,Nurse Practicioner,Manufacturing,High Net Worth,N,No,8,3147,VIC,10
+Calhoun,Mussington,Male,25-34,Above 90,Cat_1,Dental Hygienist,Health,Mass Customer,N,No,12,2019,NSW,9
+Winn,Wells,Male,25-34,61-70,Cat_1,Analyst Programmer,Manufacturing,Affluent Customer,N,No,9,2230,NSW,10
+Rafi,Brettelle,Male,Above 64,81-90,Cat_1,Operator,Health,High Net Worth,N,No,6,2166,NSW,10
+Fey,,Female,Above 64,41-50,Cat_2,Research Nurse,Health,High Net Worth,N,Yes,11,3147,VIC,12
+Verne,Loalday,Male,35-44,Below 10,Cat_1,Marketing Assistant,IT,High Net Worth,N,No,7,2082,NSW,10
+Eleonora,Wiszniewski,Female,35-44,41-50,Cat_2,Financial Advisor,Financial Services,Affluent Customer,N,No,9,4740,QLD,2
+Fayre,Brannigan,Female,25-34,31-40,Cat_1,Geological Engineer,Manufacturing,Mass Customer,N,Yes,9,2234,NSW,10
+Eachelle,Noirel,Female,45-54,Above 90,Cat_1,Registered Nurse,Health,Affluent Customer,N,Yes,11,2292,NSW,6
+Carl,Troyes,Male,45-54,Below 10,Cat_2,Associate Professor,Property,Mass Customer,N,No,7,3109,VIC,10
+Cordie,Brankley,Female,Above 64,71-80,Cat_1,Librarian,Entertainment,High Net Worth,N,No,18,2195,NSW,6
+Jackie,Pays,Male,Above 64,21-30,Cat_1,Developer I,Health,Mass Customer,N,No,9,2135,NSW,12
+Carroll,Schlagman,Female,Above 64,61-70,Cat_1,Clinical Specialist,Health,Affluent Customer,N,No,13,2099,NSW,9
+Frans,Idale,Male,45-54,Below 10,Cat_2,Nurse,Manufacturing,Mass Customer,N,No,10,4350,QLD,2
+Amara,Clow,Female,55-64,41-50,Cat_2,Biostatistician IV,Financial Services,Mass Customer,N,Yes,13,3101,VIC,12
+Anthony,Morison,Male,Above 64,Below 10,Cat_1,General Manager,Health,Mass Customer,N,No,12,2759,NSW,9
+Cherye,Stanfield,Female,35-44,Below 10,Cat_1,Environmental Tech,Manufacturing,Affluent Customer,N,No,13,2256,NSW,9
+Ansell,Tolhurst,Male,Above 64,71-80,Cat_1,Chemical Engineer,Manufacturing,Affluent Customer,N,No,22,2232,NSW,10
+Erminie,Rabidge,Female,35-44,61-70,Cat_1,Chemical Engineer,Manufacturing,High Net Worth,N,No,17,2170,NSW,8
+Rosene,Beckey,Female,45-54,21-30,Cat_1,Account Executive,Health,Mass Customer,N,Yes,14,2107,NSW,11
+Darlleen,Shalcras,Female,35-44,71-80,Cat_1,Health Coach I,Health,Mass Customer,N,No,11,2010,NSW,10
+Bryon,Goundry,Male,Above 64,71-80,Cat_2,Marketing Manager,Manufacturing,Mass Customer,N,No,21,4165,QLD,5
+Sherwin,Minocchi,Male,Above 64,71-80,Cat_1,Project Manager,Manufacturing,Mass Customer,N,Yes,11,2536,NSW,8
+Luci,Dyter,Female,Above 64,11-20,Cat_2,Software Test Engineer I,Manufacturing,High Net Worth,N,No,20,3981,VIC,7
+Sloan,Pudney,Male,55-64,81-90,Cat_2,Junior Executive,Financial Services,Affluent Customer,N,No,16,4557,QLD,9
+Otes,Elegood,Male,Above 64,61-70,Cat_1,Programmer III,Financial Services,High Net Worth,N,No,21,2226,NSW,11
+Davie,Blay,Male,35-44,Above 90,Cat_1,Financial Analyst,Financial Services,Mass Customer,N,No,8,2770,NSW,7
+Dorolice,Osmon,Female,55-64,41-50,Cat_2,Cost Accountant,Financial Services,Affluent Customer,N,No,15,3046,VIC,6
+Meade,McReedy,Female,45-54,Above 90,Cat_1,Safety Technician IV,Financial Services,Affluent Customer,N,Yes,9,2193,NSW,10
+Rikki,Chaffey,Male,Above 64,61-70,Cat_2,Chemical Engineer,Manufacturing,Mass Customer,N,No,20,4127,QLD,1
+Adria,Van den Velde,Female,35-44,31-40,Cat_1,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,Yes,9,2261,NSW,7
+Dmitri,,Male,25-34,71-80,Cat_2,Cost Accountant,Financial Services,High Net Worth,N,Yes,15,3690,VIC,4
+Maddalena,Hencke,Female,Above 64,61-70,Cat_2,Help Desk Operator,Property,High Net Worth,N,No,22,4170,QLD,5
+Rand,Winchcum,Male,18-24,31-40,Cat_1,Software Consultant,Financial Services,Affluent Customer,N,No,3,2146,NSW,7
+Rowen,Sollas,Male,55-64,31-40,Cat_2,Dental Hygienist,Health,Mass Customer,N,No,5,4556,QLD,8
+Boothe,Hayselden,Male,Above 64,41-50,Cat_1,Computer Systems Analyst III,Health,Mass Customer,N,Yes,17,2291,NSW,10
+Noak,Sleany,Male,55-64,Below 10,Cat_2,Budget/Accounting Analyst I,Financial Services,Affluent Customer,N,No,17,3121,VIC,10
+Callean,Wass,Male,25-34,61-70,Cat_2,GIS Technical Architect,Financial Services,Affluent Customer,N,No,14,3073,VIC,8
+Keelby,Sudlow,Male,25-34,Above 90,Cat_2,Marketing Assistant,Manufacturing,High Net Worth,N,No,12,3163,VIC,8
+Rodrique,Vernon,Male,35-44,61-70,Cat_2,Budget/Accounting Analyst III,Manufacturing,Affluent Customer,N,No,17,3174,VIC,8
+Brod,Attrey,Male,55-64,41-50,Cat_1,Budget/Accounting Analyst III,IT,Mass Customer,N,Yes,14,2194,NSW,8
+Manny,Mandy,Male,45-54,31-40,Cat_2,Account Representative III,Argiculture,Mass Customer,N,No,16,4280,QLD,7
+Becky,Lassen,Female,45-54,11-20,Cat_1,Sales Associate,Financial Services,Mass Customer,N,Yes,7,2251,NSW,8
+Tessa,Heakey,Female,45-54,41-50,Cat_2,Senior Financial Analyst,Financial Services,Mass Customer,N,No,9,3337,VIC,6
+Herbert,Henryson,Male,25-34,21-30,Cat_1,Marketing Manager,Retail,Mass Customer,N,No,4,2528,NSW,9
+Cristie,Bence,Female,18-24,41-50,Cat_2,Automation Specialist II,Health,High Net Worth,N,No,9,4122,QLD,8
+Renate,Whyte,Female,55-64,51-60,Cat_1,Registered Nurse,Health,High Net Worth,N,Yes,15,2620,NSW,7
+Toma,Woolforde,Female,25-34,61-70,Cat_1,Cost Accountant,Financial Services,Mass Customer,N,Yes,5,2092,NSW,12
+Dorie,Dunleavy,Female,55-64,21-30,Cat_2,Registered Nurse,Health,Affluent Customer,N,No,12,3356,VIC,4
+Ellie,Toope,Female,45-54,21-30,Cat_1,Staff Accountant III,Property,High Net Worth,N,Yes,4,2156,NSW,11
+Leonora,Swetenham,Female,55-64,61-70,Cat_1,Business Systems Development Analyst,IT,Mass Customer,N,Yes,10,2026,NSW,10
+Teodor,Mullinder,Male,55-64,51-60,Cat_2,Nuclear Power Engineer,Manufacturing,High Net Worth,N,No,11,3216,VIC,5
+Jared,Fendlow,Male,55-64,71-80,Cat_2,Media Manager II,Financial Services,Mass Customer,N,No,15,4211,QLD,7
+Andy,Deeming,Male,35-44,71-80,Cat_2,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,N,Yes,7,4556,QLD,8
+Monty,Thomazin,Male,Above 64,Below 10,Cat_2,Quality Engineer,Financial Services,Mass Customer,N,Yes,13,3105,VIC,10
+Briano,Janowski,Male,25-34,61-70,Cat_1,Analyst Programmer,Financial Services,Mass Customer,N,No,7,2066,NSW,8
+Ginger,,Male,Above 64,Above 90,Cat_1,Human Resources Manager,Financial Services,Mass Customer,N,No,11,2259,NSW,8
+Logan,Colomb,Male,Above 64,71-80,Cat_1,Recruiter,Retail,Mass Customer,N,Yes,19,2761,NSW,8
+Nichols,Devinn,Male,35-44,41-50,Cat_1,Recruiter,Retail,Affluent Customer,N,No,11,2071,NSW,12
+Catha,Davitt,Female,55-64,71-80,Cat_1,Environmental Specialist,Property,High Net Worth,N,Yes,6,2567,NSW,7
+Melosa,McOwan,Female,18-24,21-30,Cat_1,Compensation Analyst,Financial Services,Mass Customer,N,No,12,2211,NSW,9
+Maris,Leete,Female,45-54,21-30,Cat_2,Engineer IV,Retail,Mass Customer,N,No,7,4300,QLD,4
+Wilburt,Padden,Male,25-34,21-30,Cat_1,Engineer I,Manufacturing,Mass Customer,N,No,3,2148,NSW,5
+Rosabelle,Godsmark,Female,25-34,51-60,Cat_2,Executive Secretary,Retail,Mass Customer,N,Yes,3,4102,QLD,8
+Guilbert,Bearns,Male,35-44,41-50,Cat_2,Financial Analyst,Financial Services,Mass Customer,N,Yes,5,3226,VIC,8
+Meridith,Urwin,Female,25-34,61-70,Cat_1,Registered Nurse,Health,High Net Worth,N,Yes,10,2444,NSW,7
+Leeland,,Male,Above 64,61-70,Cat_2,VP Quality Control,Telecommunications,High Net Worth,N,No,12,4122,QLD,4
+Gerta,Porrett,Female,55-64,41-50,Cat_2,Registered Nurse,Health,High Net Worth,N,No,12,3250,VIC,2
+Karrah,Howell,Female,Above 64,61-70,Cat_1,Civil Engineer,Manufacturing,Mass Customer,N,No,17,2566,NSW,9
+Alick,Baise,Male,18-24,61-70,Cat_1,Pharmacist,Health,Mass Customer,N,Yes,1,2747,NSW,8
+Casandra,Betteridge,Female,Above 64,21-30,Cat_2,Cost Accountant,Financial Services,Affluent Customer,N,Yes,9,3166,VIC,10
+Maurine,Clee,Female,35-44,41-50,Cat_1,Automation Specialist II,Property,High Net Worth,N,Yes,5,2042,NSW,10
+Darwin,Bumpas,Male,35-44,21-30,Cat_2,Junior Executive,Health,Affluent Customer,N,Yes,18,3082,VIC,7
+Hayes,Daveren,Male,Above 64,31-40,Cat_2,VP Quality Control,Manufacturing,Affluent Customer,N,Yes,11,4350,QLD,2
+Piper,Issacov,Female,Above 64,61-70,Cat_1,Human Resources Assistant III,Health,Affluent Customer,N,Yes,22,2088,NSW,9
+Markus,Pendrey,Male,55-64,81-90,Cat_1,Clinical Specialist,Health,Affluent Customer,N,Yes,12,2153,NSW,10
+Sile,Zappel,Female,Above 64,41-50,Cat_2,Business Systems Development Analyst,IT,High Net Worth,N,No,15,4018,QLD,6
+Craggy,Happel,Male,35-44,31-40,Cat_2,Marketing Manager,Manufacturing,High Net Worth,N,Yes,8,3064,VIC,6
+Egor,Mariette,Male,35-44,41-50,Cat_2,Financial Advisor,Financial Services,Affluent Customer,N,No,3,3163,VIC,7
+Reinald,Bembrigg,Male,Above 64,51-60,Cat_1,Senior Financial Analyst,Financial Services,Affluent Customer,N,No,10,2770,NSW,7
+Kissie,Line,Female,18-24,Below 10,Cat_1,Environmental Tech,Manufacturing,Affluent Customer,N,Yes,7,2200,NSW,9
+Quentin,Gerleit,Female,25-34,31-40,Cat_2,Associate Professor,Manufacturing,Mass Customer,N,No,4,3806,VIC,8
+Karoly,Burgoine,Male,Above 64,51-60,Cat_2,Account Representative IV,Health,High Net Worth,N,Yes,21,3012,VIC,2
+Clarine,Piecha,Female,55-64,Above 90,Cat_2,Dental Hygienist,Health,High Net Worth,N,No,14,4151,QLD,10
+Mycah,Beaston,Male,55-64,11-20,Cat_1,Environmental Specialist,Manufacturing,High Net Worth,N,Yes,12,2221,NSW,11
+Clemmie,Bartoszewicz,Female,55-64,81-90,Cat_2,Statistician IV,Financial Services,Mass Customer,N,No,8,3197,VIC,9
+Randall,Mason,Male,45-54,Above 90,Cat_1,Product Engineer,Health,Mass Customer,N,Yes,12,2570,NSW,11
+Donica,Humby,Female,55-64,41-50,Cat_1,Senior Cost Accountant,Financial Services,Mass Customer,N,No,4,2101,NSW,12
+Lotty,Loach,Female,55-64,71-80,Cat_1,Nurse,Health,High Net Worth,N,Yes,7,2380,NSW,3
+Marie-jeanne,Breawood,Female,Above 64,31-40,Cat_1,Clinical Specialist,Health,High Net Worth,N,No,8,2770,NSW,6
+Babara,Sissel,Female,45-54,41-50,Cat_2,Business Systems Development Analyst,IT,Mass Customer,N,Yes,21,3169,VIC,10
+Rodolphe,Glenton,Male,45-54,81-90,Cat_2,Programmer Analyst II,Financial Services,Affluent Customer,N,No,11,3163,VIC,7
+Thorvald,Duckerin,Male,25-34,51-60,Cat_1,Electrical Engineer,Manufacturing,Affluent Customer,N,Yes,1,3021,VIC,8
+Paulina,Iannuzzelli,Female,Above 64,51-60,Cat_1,Automation Specialist I,Manufacturing,Mass Customer,N,No,19,2118,NSW,11
+Ricki,Padefield,Male,Above 64,41-50,Cat_2,Automation Specialist III,Manufacturing,Affluent Customer,N,Yes,13,4275,QLD,9
+Lizette,McKeaveney,Female,25-34,21-30,Cat_1,Assistant Manager,Health,High Net Worth,N,Yes,13,2050,NSW,10
+Jeno,Strafford,Male,Above 64,61-70,Cat_2,Tax Accountant,Financial Services,High Net Worth,N,No,7,4170,QLD,9
+Brigg,Himsworth,Male,45-54,61-70,Cat_2,Tax Accountant,Telecommunications,Mass Customer,N,Yes,9,4570,QLD,6
+Judi,Cazereau,Female,25-34,21-30,Cat_2,GIS Technical Architect,Financial Services,Affluent Customer,N,Yes,13,3851,VIC,3
+Raleigh,Pont,Male,55-64,41-50,Cat_2,Associate Professor,Entertainment,Mass Customer,N,No,14,3139,VIC,7
+Zachariah,Meininking,Male,Above 64,31-40,Cat_1,Cost Accountant,Financial Services,Affluent Customer,N,Yes,20,2749,NSW,7
+Lesley,Garey,Male,25-34,51-60,Cat_1,Software Consultant,Telecommunications,Mass Customer,N,No,11,2226,NSW,9
+Adriena,Giffin,Female,Above 64,21-30,Cat_1,Analog Circuit Design manager,Argiculture,Affluent Customer,N,Yes,5,2259,NSW,9
+Antoinette,,Female,35-44,71-80,Cat_2,Structural Analysis Engineer,Financial Services,Affluent Customer,N,No,5,3058,VIC,9
+Carr,Hopkynson,Male,45-54,61-70,Cat_1,Chemical Engineer,Manufacturing,Affluent Customer,N,No,16,2318,NSW,6
+Shay,Briand,Male,Above 64,51-60,Cat_2,Project Manager,IT,Mass Customer,N,Yes,9,3844,VIC,1
+Karney,Burstow,Male,45-54,51-60,Cat_1,Design Engineer,Property,Mass Customer,N,Yes,6,2031,NSW,12
+Latrena,Yetts,Female,18-24,11-20,Cat_1,Civil Engineer,Manufacturing,High Net Worth,N,Yes,15,2871,NSW,3
+Jesse,Alflat,Male,35-44,31-40,Cat_1,Executive Secretary,Retail,High Net Worth,N,No,5,2145,NSW,9
+Kelcie,Kingaby,Female,18-24,51-60,Cat_2,Systems Administrator II,IT,Mass Customer,N,Yes,6,4019,QLD,4
+Fabio,Commuzzo,Male,55-64,Below 10,Cat_2,Software Test Engineer II,Manufacturing,Mass Customer,N,No,18,3806,VIC,8
+Heall,Andrioli,Male,Above 64,41-50,Cat_2,Environmental Tech,IT,Affluent Customer,N,Yes,7,4133,QLD,5
+Rickert,Brasted,Male,55-64,41-50,Cat_1,Staff Scientist,Health,Mass Customer,N,No,10,2145,NSW,9
+Hedwig,Jayme,Female,Above 64,31-40,Cat_1,Accountant IV,Property,Affluent Customer,N,No,11,2099,NSW,10
+Penrod,Tomasicchio,Male,45-54,Below 10,Cat_1,Social Worker,Health,High Net Worth,N,No,19,2318,NSW,9
+Pancho,Edis,Male,45-54,Below 10,Cat_2,Assistant Professor,Manufacturing,Mass Customer,N,No,13,3023,VIC,7
+Andriana,Gosnoll,Female,55-64,51-60,Cat_1,Chief Design Engineer,Manufacturing,Mass Customer,N,No,8,2291,NSW,10
+Nilson,Wiggam,Male,25-34,41-50,Cat_2,Paralegal,Financial Services,Mass Customer,N,No,9,3049,VIC,6
+Denny,Spleving,Female,45-54,81-90,Cat_1,Business Systems Development Analyst,Manufacturing,Affluent Customer,N,Yes,5,2114,NSW,8
+Olia,O' Mullan,Female,45-54,71-80,Cat_1,Account Executive,Health,Mass Customer,N,No,8,2263,NSW,7
+Conway,Juarez,Male,55-64,21-30,Cat_2,Help Desk Technician,Manufacturing,Affluent Customer,N,No,17,4814,QLD,5
+Shaw,MacEvilly,Male,18-24,Below 10,Cat_1,Software Test Engineer III,Health,Affluent Customer,N,No,16,2768,NSW,9
+Brook,Eade,Female,Above 64,61-70,Cat_1,Sales Representative,Retail,Mass Customer,N,Yes,8,2330,NSW,5
+Aleece,Feige,Female,45-54,41-50,Cat_1,Chemical Engineer,Manufacturing,Mass Customer,N,No,18,2141,NSW,10
+Dolorita,Strutton,Female,25-34,Below 10,Cat_2,General Manager,Manufacturing,Affluent Customer,N,No,17,3178,VIC,8
+Harman,A'field,Male,55-64,31-40,Cat_2,Geologist III,Manufacturing,Affluent Customer,N,Yes,6,4227,QLD,5
+Hildegarde,Bamb,Female,55-64,11-20,Cat_2,Help Desk Operator,Property,High Net Worth,N,Yes,10,3910,VIC,9
+Ilise,Clissold,Female,35-44,51-60,Cat_1,Developer IV,Entertainment,High Net Worth,N,No,9,2153,NSW,10
+Julita,Prene,Female,35-44,11-20,Cat_2,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,13,4128,QLD,2
+Ashlen,Willbond,Female,35-44,61-70,Cat_2,Software Consultant,Health,High Net Worth,N,No,16,3934,VIC,8
+Keely,Bointon,Female,25-34,71-80,Cat_2,Nurse,Telecommunications,High Net Worth,N,No,3,4154,QLD,9
+Poul,Gaskin,Male,Above 64,71-80,Cat_1,Help Desk Operator,Telecommunications,High Net Worth,N,No,17,2643,NSW,2
+Sheilakathryn,Huff,Female,55-64,41-50,Cat_1,Assistant Manager,Retail,High Net Worth,N,Yes,14,2477,NSW,6
+Rubia,Evetts,Female,25-34,51-60,Cat_1,Pharmacist,Health,Mass Customer,N,No,16,2071,NSW,9
+Francklin,Cross,Male,35-44,51-60,Cat_1,Teacher,Property,Mass Customer,N,Yes,3,2231,NSW,10
+Wilone,Champley,Female,35-44,21-30,Cat_1,Chemical Engineer,Manufacturing,High Net Worth,N,No,17,2077,NSW,10
+Lezlie,Clemits,Female,45-54,Below 10,Cat_1,Senior Cost Accountant,Financial Services,Mass Customer,N,Yes,15,2155,NSW,10
+Kathe,Oller,Female,55-64,41-50,Cat_2,General Manager,Manufacturing,Mass Customer,N,Yes,5,3029,VIC,4
+Dulce,Bradwell,Female,Above 64,61-70,Cat_2,Research Associate,Manufacturing,Mass Customer,N,No,20,4159,QLD,9
+Felice,Dechelette,Male,25-34,71-80,Cat_2,Librarian,Entertainment,High Net Worth,N,No,3,4051,QLD,4
+Joane,Caldes,Female,45-54,81-90,Cat_1,Senior Cost Accountant,Financial Services,High Net Worth,N,Yes,13,2250,NSW,7
+Diane,Furman,Female,25-34,61-70,Cat_2,Chemical Engineer,Manufacturing,Affluent Customer,N,Yes,13,3013,VIC,9
+Ogdan,Blenkinship,Male,Above 64,61-70,Cat_2,Occupational Therapist,Health,Mass Customer,N,Yes,21,3429,VIC,5
+Kizzee,Agget,Female,45-54,Above 90,Cat_1,Statistician II,Manufacturing,Affluent Customer,N,No,8,2213,NSW,10
+Stephi,Highton,Female,35-44,21-30,Cat_1,Software Engineer I,Telecommunications,Mass Customer,N,Yes,12,2154,NSW,10
+Martino,Scoles,Male,45-54,11-20,Cat_2,Senior Financial Analyst,Financial Services,Mass Customer,N,No,14,3620,VIC,4
+Morgen,Newport,Female,55-64,Below 10,Cat_2,Project Manager,Manufacturing,Mass Customer,N,No,6,3340,VIC,4
+Eugenie,Brinson,Female,55-64,71-80,Cat_2,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,17,3073,VIC,6
+Reinold,Natt,Male,55-64,11-20,Cat_2,Help Desk Technician,Financial Services,High Net Worth,N,Yes,8,3207,VIC,8
+Jo,Roberts,Female,Above 64,41-50,Cat_1,Paralegal,Financial Services,High Net Worth,N,Yes,11,2440,NSW,3
+Jacklin,Duchant,Female,Above 64,71-80,Cat_2,Legal Assistant,Argiculture,Mass Customer,N,No,17,4132,QLD,4
+Colas,Gabbitas,Male,Above 64,Above 90,Cat_1,Staff Scientist,Retail,High Net Worth,N,No,20,2166,NSW,9
+Claudetta,Ricciardiello,Female,45-54,61-70,Cat_2,Internal Auditor,Financial Services,Mass Customer,N,Yes,21,3181,VIC,8
+Angele,Cadore,Female,Above 64,Below 10,Cat_2,Chief Design Engineer,Manufacturing,Mass Customer,N,Yes,7,4125,QLD,7
+Cicily,Hast,Female,45-54,61-70,Cat_1,Food Chemist,Health,Affluent Customer,N,Yes,8,2478,NSW,3
+Harland,Messenger,Male,45-54,81-90,Cat_2,Software Test Engineer I,Retail,Mass Customer,N,No,8,3934,VIC,10
+Sim,Constantinou,Male,25-34,Above 90,Cat_1,Analog Circuit Design manager,Property,Mass Customer,N,No,5,2010,NSW,9
+Shanon,Rolfe,Female,Above 64,61-70,Cat_1,Sales Representative,Retail,High Net Worth,N,No,8,2530,NSW,7
+Chryste,Oddboy,Female,25-34,41-50,Cat_1,Software Engineer III,Manufacturing,High Net Worth,N,Yes,4,2320,NSW,9
+Edin,Patinkin,Female,25-34,31-40,Cat_2,Account Executive,Health,Mass Customer,N,No,17,3015,VIC,4
+Nolly,Ivanchikov,Male,25-34,11-20,Cat_1,Help Desk Operator,Manufacturing,High Net Worth,N,Yes,11,2049,NSW,11
+Michele,Pammenter,Male,35-44,21-30,Cat_1,Teacher,Health,High Net Worth,N,No,2,3198,VIC,8
+Liane,Abelevitz,Female,45-54,21-30,Cat_2,Operator,Manufacturing,Mass Customer,N,No,3,3153,VIC,7
+Philbert,Bangs,Male,55-64,61-70,Cat_2,Environmental Specialist,IT,Mass Customer,N,Yes,6,4500,QLD,7
+Candy,,Female,45-54,21-30,Cat_2,Cost Accountant,Financial Services,Mass Customer,N,No,6,3500,VIC,3
+Noami,Cokly,Female,55-64,71-80,Cat_1,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,15,2038,NSW,11
+Lyndell,Jereatt,Female,25-34,11-20,Cat_1,Payment Adjustment Coordinator,Manufacturing,High Net Worth,N,No,13,2122,NSW,12
+Maximilien,Bourget,Male,45-54,11-20,Cat_2,Geologist I,Financial Services,Mass Customer,N,Yes,6,3337,VIC,7
+Benedikta,Naptin,Female,25-34,51-60,Cat_1,Operator,Retail,Mass Customer,N,Yes,15,2121,NSW,11
+Rhodie,Gaskall,Female,55-64,81-90,Cat_2,VP Quality Control,Financial Services,Mass Customer,N,Yes,9,4170,QLD,9
+Afton,Andrassy,Female,18-24,71-80,Cat_2,Web Designer II,Retail,Mass Customer,N,No,7,3075,VIC,8
+Blondell,Dibdall,Female,55-64,61-70,Cat_2,Programmer III,Retail,Mass Customer,N,No,4,3048,VIC,4
+Sonia,Dunstall,Female,45-54,Below 10,Cat_1,Accountant III,Financial Services,Mass Customer,N,No,10,2570,NSW,9
+Benedikt,Adamou,Male,35-44,11-20,Cat_2,Recruiting Manager,Health,Mass Customer,N,No,11,3564,VIC,3
+Don,Spratling,Male,45-54,81-90,Cat_1,Associate Professor,Property,Affluent Customer,N,Yes,7,2760,NSW,10
+Moll,Ogilby,Female,35-44,21-30,Cat_2,Research Assistant III,Manufacturing,Mass Customer,N,Yes,13,4123,QLD,6
+Jammie,Seldner,Female,45-54,41-50,Cat_1,Human Resources Manager,Health,Mass Customer,N,Yes,15,2066,NSW,10
+Inglis,Pickaver,Male,25-34,31-40,Cat_1,Product Engineer,Telecommunications,Affluent Customer,N,No,1,2770,NSW,8
+Clarabelle,Broschek,Female,55-64,Below 10,Cat_2,Geological Engineer,Manufacturing,Mass Customer,N,No,18,4035,QLD,6
+Tillie,Bisseker,Female,55-64,71-80,Cat_1,Civil Engineer,Manufacturing,High Net Worth,N,No,14,2104,NSW,12
+Irving,Babcock,Male,35-44,51-60,Cat_1,Dental Hygienist,Health,High Net Worth,N,Yes,15,2705,NSW,1
+Evered,Gludor,Male,Above 64,Below 10,Cat_1,Electrical Engineer,Manufacturing,High Net Worth,N,Yes,15,2168,NSW,8
+Mavra,Finan,Female,55-64,21-30,Cat_1,Nurse,Property,Affluent Customer,N,Yes,4,2034,NSW,9
+Ellwood,Budden,Male,18-24,81-90,Cat_1,Social Worker,Health,Mass Customer,N,Yes,11,2192,NSW,10
+Alex,Patshull,Female,55-64,31-40,Cat_2,Senior Quality Engineer,Retail,Mass Customer,N,Yes,13,4165,QLD,5
+Aundrea,Outridge,Female,18-24,71-80,Cat_2,Structural Engineer,Financial Services,Affluent Customer,N,Yes,10,3186,VIC,12
+Amby,Bodega,Male,45-54,61-70,Cat_2,Recruiter,Retail,Affluent Customer,N,Yes,17,3810,VIC,6
+Esme,Pilipets,Male,55-64,11-20,Cat_2,Environmental Tech,Health,Mass Customer,N,Yes,5,3228,VIC,9
+Beverly,Domnick,Female,Above 64,51-60,Cat_1,Structural Analysis Engineer,IT,Mass Customer,N,No,9,2232,NSW,10
+Artemis,Swanson,Male,45-54,71-80,Cat_2,Web Designer II,Argiculture,Mass Customer,N,Yes,13,3810,VIC,5
+Daryle,Marginson,Male,35-44,Above 90,Cat_1,Environmental Tech,Argiculture,Mass Customer,N,Yes,9,2121,NSW,12
+Tyne,Anshell,Female,25-34,71-80,Cat_1,Mechanical Systems Engineer,Retail,Mass Customer,N,Yes,3,2560,NSW,8
+Leona,Shorrock,Female,Above 64,81-90,Cat_2,Senior Quality Engineer,Financial Services,Affluent Customer,N,Yes,22,4720,QLD,1
+Bertrando,Carass,Male,Above 64,41-50,Cat_1,Sales Associate,Property,Mass Customer,N,No,8,2565,NSW,5
+Augusta,Munns,Female,Above 64,Below 10,Cat_1,Quality Control Specialist,Manufacturing,Mass Customer,N,No,21,2074,NSW,11
+Lauralee,Fudge,Female,35-44,81-90,Cat_2,Research Nurse,Health,Mass Customer,N,No,15,3277,VIC,4
+Consalve,Ballay,Male,55-64,41-50,Cat_1,Web Developer I,IT,Mass Customer,N,Yes,7,2250,NSW,8
+Lolly,Prewer,Female,25-34,41-50,Cat_1,Geologist I,Health,Mass Customer,N,No,15,2620,NSW,7
+Vyky,Pegg,Female,Above 64,61-70,Cat_1,Quality Control Specialist,Manufacturing,Mass Customer,N,Yes,11,2322,NSW,7
+Kellen,Pawelski,Female,Above 64,81-90,Cat_1,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,11,2193,NSW,8
+Jermaine,Bagshawe,Female,Above 64,51-60,Cat_2,Help Desk Operator,Property,Mass Customer,N,Yes,9,4209,QLD,6
+Bryan,Jachtym,Male,45-54,51-60,Cat_2,Automation Specialist I,Manufacturing,Mass Customer,N,Yes,15,3356,VIC,3
+Renie,Laundon,Female,45-54,31-40,Cat_2,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,8,4118,QLD,3
+Weidar,Etheridge,Male,55-64,31-40,Cat_1,Compensation Analyst,Financial Services,Mass Customer,N,Yes,6,2422,NSW,4
+Datha,Fishburn,Female,25-34,11-20,Cat_2,Office Assistant IV,Retail,Mass Customer,N,No,3,3079,VIC,12
+Ferdinand,Romanetti,Male,55-64,51-60,Cat_1,Paralegal,Financial Services,Affluent Customer,N,No,9,2200,NSW,7
+Burk,Wortley,Male,18-24,21-30,Cat_1,Senior Sales Associate,Health,Mass Customer,N,No,6,2196,NSW,10
+Melloney,Temby,Female,Above 64,11-20,Cat_2,Budget/Accounting Analyst IV,Financial Services,Affluent Customer,N,Yes,15,4702,QLD,2
+Dickie,Cubbini,Male,Above 64,21-30,Cat_2,Financial Advisor,Financial Services,Mass Customer,N,Yes,19,4215,QLD,2
+Sylas,Duffill,Male,Above 64,51-60,Cat_1,Staff Accountant IV,Property,Mass Customer,N,Yes,14,2010,NSW,9
+Normy,Goodinge,Female,Unspecified,Below 10,Cat_3,Associate Professor,IT,Mass Customer,N,No,4,3810,VIC,5
+Hatti,Carletti,Female,Unspecified,31-40,Cat_3,Legal Assistant,IT,Affluent Customer,N,Yes,11,2519,NSW,9
+Rozamond,Turtle,Female,Unspecified,61-70,Cat_3,Legal Assistant,IT,Mass Customer,N,Yes,3,3850,VIC,3
+Tamas,Swatman,Female,Unspecified,61-70,Cat_3,Assistant Media Planner,Entertainment,Affluent Customer,N,No,5,4551,QLD,8
+Tracy,Andrejevic,Female,Unspecified,71-80,Cat_3,Programmer II,IT,Mass Customer,N,Yes,11,3030,VIC,7
+Agneta,McAmish,Female,Unspecified,61-70,Cat_3,Structural Analysis Engineer,IT,Mass Customer,N,No,15,4207,QLD,6
+Gregg,Aimeric,Female,Unspecified,51-60,Cat_3,Internal Auditor,IT,Mass Customer,N,No,7,3753,VIC,5
+Johna,Bunker,Female,Unspecified,Above 90,Cat_3,Tax Accountant,IT,Mass Customer,N,Yes,14,3065,VIC,6
+Harlene,Nono,Female,Unspecified,61-70,Cat_3,Human Resources Manager,IT,Mass Customer,N,No,12,2170,NSW,7
+Gerianne,Kaysor,Female,Unspecified,11-20,Cat_3,Project Manager,IT,Affluent Customer,N,No,5,2121,NSW,11
+Chicky,Sinclar,Female,Unspecified,41-50,Cat_3,Operator,IT,High Net Worth,N,Yes,0,3222,VIC,4
+Adriana,Saundercock,Female,Unspecified,11-20,Cat_3,Nurse,IT,High Net Worth,N,Yes,14,3806,VIC,7
+Dmitri,Viant,Female,Unspecified,61-70,Cat_3,Paralegal,Financial Services,Affluent Customer,N,No,5,3842,VIC,1
+Porty,Hansed,Female,Unspecified,81-90,Cat_3,General Manager,IT,Mass Customer,N,No,13,2112,NSW,11
+Shara,Bramhill,Female,Unspecified,21-30,Cat_3,,IT,Affluent Customer,N,No,2,2230,NSW,10
+Roth,Crum,Female,Unspecified,Below 10,Cat_3,Legal Assistant,IT,Mass Customer,N,No,2,2450,NSW,6
+Pauline,Dallosso,Female,Unspecified,81-90,Cat_3,Desktop Support Technician,IT,Affluent Customer,N,Yes,0,2050,NSW,10
+Brooke,Arling,Male,55-64,71-80,Cat_3,Unspecified,Unspecified,High Net Worth,N,No,6,3027,VIC,5
+Nobe,McAughtry,Male,35-44,21-30,Cat_3,Unspecified,Unspecified,Mass Customer,N,No,12,4510,QLD,5
+Sharline,Abyss,Female,55-64,11-20,Cat_3,Unspecified,Unspecified,Mass Customer,N,Yes,15,4011,QLD,4
+Alfonso,Massel,Male,Above 64,61-70,Cat_3,Unspecified,Unspecified,Mass Customer,N,Yes,13,3977,VIC,7
+Jeanne,Darte,Female,Above 64,61-70,Cat_3,Unspecified,Unspecified,Mass Customer,N,Yes,11,2756,NSW,7
+Gretna,Thredder,Female,55-64,61-70,Cat_3,Unspecified,Unspecified,Mass Customer,N,No,18,2203,NSW,11
+Alleen,Eaken,Female,Above 64,51-60,Cat_3,Unspecified,Unspecified,Mass Customer,N,No,10,2089,NSW,12
+Marcelia,Copins,Female,Above 64,81-90,Cat_3,Unspecified,Unspecified,Mass Customer,N,Yes,21,2259,NSW,8
+Dory,Malpass,Female,45-54,11-20,Cat_3,Unspecified,Unspecified,Affluent Customer,N,Yes,13,4103,QLD,8
+Free,Rowland,Male,Above 64,41-50,Cat_3,Unspecified,Unspecified,Mass Customer,N,Yes,12,3796,VIC,8
+Kirsteni,Gritskov,Female,18-24,61-70,Cat_3,Unspecified,Unspecified,Mass Customer,N,No,4,2560,NSW,7
+Kellyann,Adshad,Female,Above 64,61-70,Cat_3,Unspecified,Unspecified,Mass Customer,N,Yes,22,2161,NSW,9
+Marissa,O'Scandall,Female,45-54,11-20,Cat_3,Unspecified,Unspecified,Affluent Customer,N,Yes,7,3199,VIC,7
+Osbourn,Gherardini,Male,35-44,41-50,Cat_3,Unspecified,Unspecified,High Net Worth,N,Yes,16,2782,NSW,7
+Israel,Brough,Male,45-54,21-30,Cat_3,Unspecified,Unspecified,Mass Customer,N,Yes,8,2281,NSW,7
+Cecil,Gant,Male,45-54,51-60,Cat_3,Unspecified,Unspecified,High Net Worth,N,Yes,9,2145,NSW,8
+Rockie,MacKibbon,Male,35-44,41-50,Cat_3,Unspecified,Unspecified,Mass Customer,N,Yes,13,2298,NSW,8
+Andrea,Pendle,Female,Above 64,81-90,Cat_3,Unspecified,Unspecified,High Net Worth,N,Yes,13,4500,QLD,6
+Muffin,Bhar,Male,55-64,41-50,Cat_3,Unspecified,Unspecified,Affluent Customer,N,No,19,2448,NSW,4
+Dru,Crellim,Female,55-64,51-60,Cat_3,Unspecified,Unspecified,Mass Customer,N,No,12,3030,VIC,7
+Launce,Gale,Male,Above 64,81-90,Cat_3,Unspecified,Unspecified,Mass Customer,N,No,21,2777,NSW,9
+Frieda,Tavinor,Female,18-24,41-50,Cat_3,Unspecified,Unspecified,Affluent Customer,N,No,10,3064,VIC,6
